@@ -1,0 +1,20 @@
+#!/bin/bash
+i=0
+tmp=""
+for line in $(cat runs.log)
+do
+	((i++))
+	i=$((i%10))
+	
+	if [ $i -eq 7 ]
+	then
+		tmp="$line,"
+	fi
+
+	if [ $i -eq 0 ]
+	then
+		echo $tmp$line >> values.csv
+	fi
+
+	
+done

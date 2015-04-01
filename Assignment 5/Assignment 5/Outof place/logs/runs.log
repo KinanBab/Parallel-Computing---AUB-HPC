@@ -1,0 +1,72 @@
+Wall-clock running time on 12 processors: 5.534562 s
+BENCH: 600,12
+Wall-clock running time on 8 processors: 8.312784 s
+BENCH: 600,8
+Wall-clock running time on 4 processors: 17.077114 s
+BENCH: 600,4
+Wall-clock running time on 2 processors: 33.309299 s
+BENCH: 600,2
+Wall-clock running time on 12 processors: 44.816630 s
+BENCH: 1800,12
+Wall-clock running time on 12 processors: 44.842927 s
+BENCH: 1200,12
+Wall-clock running time on 1 processor: 64.865741 s
+BENCH: 600,1
+Wall-clock running time on 8 processors: 65.737049 s
+BENCH: 1200,8
+Wall-clock running time on 8 processors: 66.964463 s
+BENCH: 1800,8
+Wall-clock running time on 4 processors: 131.926737 s
+BENCH: 1800,4
+Wall-clock running time on 4 processors: 134.775840 s
+BENCH: 1200,4
+Wall-clock running time on 2 processors: 267.697436 s
+BENCH: 1800,2
+Wall-clock running time on 2 processors: 274.569760 s
+BENCH: 1200,2
+Wall-clock running time on 12 processors: 350.384928 s
+BENCH: 2400,12
+Wall-clock running time on 12 processors: 350.924599 s
+BENCH: 3600,12
+Wall-clock running time on 16 processors: 4.279748 s
+BENCH: 600,16
+Wall-clock running time on 12 processors: 355.271330 s
+BENCH: 3000,12
+Wall-clock running time on 16 processors: 33.518645 s
+BENCH: 1200,16
+Wall-clock running time on 16 processors: 33.762709 s
+BENCH: 1800,16
+Wall-clock running time on 1 processor: 513.297404 s
+BENCH: 1800,1
+Wall-clock running time on 8 processors: 509.337727 s
+BENCH: 2400,8
+Wall-clock running time on 1 processor: 524.798227 s
+BENCH: 1200,1
+Wall-clock running time on 8 processors: 526.838852 s
+BENCH: 3000,8
+Wall-clock running time on 8 processors: 541.341409 s
+BENCH: 3600,8
+Wall-clock running time on 16 processors: 273.404914 s
+BENCH: 2400,16
+Wall-clock running time on 16 processors: 264.254365 s
+BENCH: 3000,16
+Wall-clock running time on 16 processors: 274.176846 s
+BENCH: 3600,16
+Wall-clock running time on 4 processors: 1020.093892 s
+BENCH: 3600,4
+Wall-clock running time on 4 processors: 1032.834922 s
+BENCH: 3000,4
+Wall-clock running time on 4 processors: 1033.956281 s
+BENCH: 2400,4
+Wall-clock running time on 2 processors: 1982.219462 s
+BENCH: 2400,2
+Wall-clock running time on 2 processors: 2023.161051 s
+BENCH: 3000,2
+Wall-clock running time on 2 processors: 2040.158033 s
+BENCH: 3600,2
+Wall-clock running time on 1 processor: 3925.781931 s
+BENCH: 2400,1
+Wall-clock running time on 1 processor: 4005.081375 s
+BENCH: 3000,1
+Wall-clock running time on 1 processor: 4013.241487 s
+BENCH: 3600,1

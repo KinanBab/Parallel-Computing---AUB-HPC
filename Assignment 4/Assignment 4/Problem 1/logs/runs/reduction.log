@@ -1,0 +1,620 @@
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 22028: <./pi-reduction.o 100000 1> Exited
+
+Job <./pi-reduction.o 100000 1> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:53 2014
+Results reported at Thu Apr 24 15:25:53 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 100000 1
+------------------------------------------------------------
+
+Exited with exit code 19.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000100,0,1,kinan
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 22040: <./pi-reduction.o 100000 12> Exited
+
+Job <./pi-reduction.o 100000 12> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:55 2014
+Results reported at Thu Apr 24 15:25:55 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 100000 12
+------------------------------------------------------------
+
+Exited with exit code 20.
+
+Resource usage summary:
+
+    CPU time   :      0.02 sec.
+    Max Memory :         2 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000485,0,12,kinan
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 22034: <./pi-reduction.o 100000 4> Exited
+
+Job <./pi-reduction.o 100000 4> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:54 2014
+Results reported at Thu Apr 24 15:25:56 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 100000 4
+------------------------------------------------------------
+
+Exited with exit code 19.
+
+Resource usage summary:
+
+    CPU time   :      0.02 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000282,0,4,kinan
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 22031: <./pi-reduction.o 100000 2> Exited
+
+Job <./pi-reduction.o 100000 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:54 2014
+Results reported at Thu Apr 24 15:25:56 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 100000 2
+------------------------------------------------------------
+
+Exited with exit code 19.
+
+Resource usage summary:
+
+    CPU time   :      0.02 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000213,0,2,kinan
+Sender: LSF System <hpcadmin@node08>
+Subject: Job 22037: <./pi-reduction.o 100000 8> Exited
+
+Job <./pi-reduction.o 100000 8> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node08>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:55 2014
+Results reported at Thu Apr 24 15:25:57 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 100000 8
+------------------------------------------------------------
+
+Exited with exit code 126.
+
+Resource usage summary:
+
+    CPU time   :      0.02 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+/gpfs1/kmd14/.lsbatch/1398342353.22037: line 8: ./pi-reduction.o: Permission denied
+Sender: LSF System <hpcadmin@node07>
+Subject: Job 22070: <./pi-reduction.o 500000 12> Exited
+
+Job <./pi-reduction.o 500000 12> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node07>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:59 2014
+Results reported at Thu Apr 24 15:25:59 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 500000 12
+------------------------------------------------------------
+
+Exited with exit code 20.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000523,0,12,kinan
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 22049: <./pi-reduction.o 200000 4> Exited
+
+Job <./pi-reduction.o 200000 4> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:57 2014
+Results reported at Thu Apr 24 15:25:59 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 200000 4
+------------------------------------------------------------
+
+Exited with exit code 19.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000263,0,4,kinan
+Sender: LSF System <hpcadmin@node11>
+Subject: Job 22067: <./pi-reduction.o 500000 8> Exited
+
+Job <./pi-reduction.o 500000 8> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node11>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:59 2014
+Results reported at Thu Apr 24 15:26:00 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 500000 8
+------------------------------------------------------------
+
+Exited with exit code 19.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000359,0,8,kinan
+Sender: LSF System <hpcadmin@node14>
+Subject: Job 22082: <./pi-reduction.o 1000000 8> Exited
+
+Job <./pi-reduction.o 1000000 8> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node14>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:26:00 2014
+Results reported at Thu Apr 24 15:26:02 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 1000000 8
+------------------------------------------------------------
+
+Exited with exit code 19.
+
+Resource usage summary:
+
+    CPU time   :      0.02 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000384,0,8,kinan
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 22079: <./pi-reduction.o 1000000 4> Exited
+
+Job <./pi-reduction.o 1000000 4> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:26:00 2014
+Results reported at Thu Apr 24 15:26:02 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 1000000 4
+------------------------------------------------------------
+
+Exited with exit code 19.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000148,0,4,kinan
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 22076: <./pi-reduction.o 1000000 2> Exited
+
+Job <./pi-reduction.o 1000000 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:26:00 2014
+Results reported at Thu Apr 24 15:26:02 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 1000000 2
+------------------------------------------------------------
+
+Exited with exit code 19.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000220,0,2,kinan
+Sender: LSF System <hpcadmin@node07>
+Subject: Job 22085: <./pi-reduction.o 1000000 12> Exited
+
+Job <./pi-reduction.o 1000000 12> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node07>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:26:01 2014
+Results reported at Thu Apr 24 15:26:02 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 1000000 12
+------------------------------------------------------------
+
+Exited with exit code 20.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000627,0,12,kinan
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 22061: <./pi-reduction.o 500000 2> Exited
+
+Job <./pi-reduction.o 500000 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:58 2014
+Results reported at Thu Apr 24 15:26:11 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 500000 2
+------------------------------------------------------------
+
+Exited with exit code 19.
+
+Resource usage summary:
+
+    CPU time   :      0.02 sec.
+    Max Memory :         2 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000110,0,2,kinan
+Sender: LSF System <hpcadmin@node03>
+Subject: Job 22064: <./pi-reduction.o 500000 4> Exited
+
+Job <./pi-reduction.o 500000 4> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node03>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:59 2014
+Results reported at Thu Apr 24 15:26:11 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 500000 4
+------------------------------------------------------------
+
+Exited with exit code 19.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000275,0,4,kinan
+Sender: LSF System <hpcadmin@node08>
+Subject: Job 22058: <./pi-reduction.o 500000 1> Exited
+
+Job <./pi-reduction.o 500000 1> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node08>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:58 2014
+Results reported at Thu Apr 24 15:26:16 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 500000 1
+------------------------------------------------------------
+
+Exited with exit code 19.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000048,0,1,kinan
+Sender: LSF System <hpcadmin@node08>
+Subject: Job 22055: <./pi-reduction.o 200000 12> Exited
+
+Job <./pi-reduction.o 200000 12> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node08>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:58 2014
+Results reported at Thu Apr 24 15:26:16 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 200000 12
+------------------------------------------------------------
+
+Exited with exit code 20.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000451,0,12,kinan
+Sender: LSF System <hpcadmin@node08>
+Subject: Job 22073: <./pi-reduction.o 1000000 1> Exited
+
+Job <./pi-reduction.o 1000000 1> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node08>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:26:01 2014
+Results reported at Thu Apr 24 15:26:16 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 1000000 1
+------------------------------------------------------------
+
+Exited with exit code 19.
+
+Resource usage summary:
+
+    CPU time   :      0.02 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000097,0,1,kinan
+Sender: LSF System <hpcadmin@node13>
+Subject: Job 22046: <./pi-reduction.o 200000 2> Exited
+
+Job <./pi-reduction.o 200000 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node13>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:56 2014
+Results reported at Thu Apr 24 15:26:16 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 200000 2
+------------------------------------------------------------
+
+Exited with exit code 19.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000190,0,2,kinan
+Sender: LSF System <hpcadmin@node13>
+Subject: Job 22043: <./pi-reduction.o 200000 1> Exited
+
+Job <./pi-reduction.o 200000 1> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node13>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:56 2014
+Results reported at Thu Apr 24 15:26:16 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 200000 1
+------------------------------------------------------------
+
+Exited with exit code 19.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000095,0,1,kinan
+Sender: LSF System <hpcadmin@node13>
+Subject: Job 22052: <./pi-reduction.o 200000 8> Exited
+
+Job <./pi-reduction.o 200000 8> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node13>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:58 2014
+Results reported at Thu Apr 24 15:26:16 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-reduction.o 200000 8
+------------------------------------------------------------
+
+Exited with exit code 19.
+
+Resource usage summary:
+
+    CPU time   :      0.04 sec.
+    Max Memory :         2 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.004341,0,8,kinan

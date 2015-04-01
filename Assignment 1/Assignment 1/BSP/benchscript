@@ -1,0 +1,5 @@
+#!/bin/bash
+for p in 1 2 4 6 12 16
+do
+	make runbench CORES=${p}
+done

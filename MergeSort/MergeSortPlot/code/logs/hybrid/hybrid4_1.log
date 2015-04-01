@@ -1,0 +1,330 @@
+Sender: LSF System <hpcadmin@node10>
+Subject: Job 16522: </gpfs1/openmpi/bin/mpirun ./hybrid 4 10000> Done
+
+Job </gpfs1/openmpi/bin/mpirun ./hybrid 4 10000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node10>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/ExtraGrades/mergesort> was used as the working directory.
+Started at Wed Apr 16 02:38:07 2014
+Results reported at Wed Apr 16 02:38:16 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/gpfs1/openmpi/bin/mpirun ./hybrid 4 10000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.40 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+--------------------------------------------------------------------------
+WARNING: It appears that your OpenFabrics subsystem is configured to only
+allow registering part of your physical memory.  This can cause MPI jobs to
+run with erratic performance, hang, and/or crash.
+
+This may be caused by your OpenFabrics vendor limiting the amount of
+physical memory that can be registered.  You should investigate the
+relevant Linux kernel module parameters that control how much physical
+memory can be registered, and increase them to allow registering all
+physical memory on your machine.
+
+See this Open MPI FAQ item for more information on these Linux kernel module
+parameters:
+
+    http://www.open-mpi.org/faq/?category=openfabrics#ib-locked-pages
+
+  Local host:              node10
+  Registerable memory:     32768 MiB
+  Total memory:            65508 MiB
+
+Your MPI job will continue, but may be behave poorly and/or hang.
+--------------------------------------------------------------------------
+[Threads] Nodes: 1 Threads/Node: 4
+[Realtime]	 0.037168
+[Clocktime]	 0.130000
+Sender: LSF System <hpcadmin@node10>
+Subject: Job 16523: </gpfs1/openmpi/bin/mpirun ./hybrid 4 1000000> Done
+
+Job </gpfs1/openmpi/bin/mpirun ./hybrid 4 1000000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node10>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/ExtraGrades/mergesort> was used as the working directory.
+Started at Wed Apr 16 02:38:19 2014
+Results reported at Wed Apr 16 02:38:23 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/gpfs1/openmpi/bin/mpirun ./hybrid 4 1000000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      1.71 sec.
+    Max Memory :         2 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+--------------------------------------------------------------------------
+WARNING: It appears that your OpenFabrics subsystem is configured to only
+allow registering part of your physical memory.  This can cause MPI jobs to
+run with erratic performance, hang, and/or crash.
+
+This may be caused by your OpenFabrics vendor limiting the amount of
+physical memory that can be registered.  You should investigate the
+relevant Linux kernel module parameters that control how much physical
+memory can be registered, and increase them to allow registering all
+physical memory on your machine.
+
+See this Open MPI FAQ item for more information on these Linux kernel module
+parameters:
+
+    http://www.open-mpi.org/faq/?category=openfabrics#ib-locked-pages
+
+  Local host:              node10
+  Registerable memory:     32768 MiB
+  Total memory:            65508 MiB
+
+Your MPI job will continue, but may be behave poorly and/or hang.
+--------------------------------------------------------------------------
+[Threads] Nodes: 1 Threads/Node: 4
+[Realtime]	 0.420168
+[Clocktime]	 1.500000
+Sender: LSF System <hpcadmin@node10>
+Subject: Job 16524: </gpfs1/openmpi/bin/mpirun ./hybrid 4 100000000> Done
+
+Job </gpfs1/openmpi/bin/mpirun ./hybrid 4 100000000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node10>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/ExtraGrades/mergesort> was used as the working directory.
+Started at Wed Apr 16 02:38:23 2014
+Results reported at Wed Apr 16 02:38:52 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/gpfs1/openmpi/bin/mpirun ./hybrid 4 100000000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :     67.10 sec.
+    Max Memory :         2 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+--------------------------------------------------------------------------
+WARNING: It appears that your OpenFabrics subsystem is configured to only
+allow registering part of your physical memory.  This can cause MPI jobs to
+run with erratic performance, hang, and/or crash.
+
+This may be caused by your OpenFabrics vendor limiting the amount of
+physical memory that can be registered.  You should investigate the
+relevant Linux kernel module parameters that control how much physical
+memory can be registered, and increase them to allow registering all
+physical memory on your machine.
+
+See this Open MPI FAQ item for more information on these Linux kernel module
+parameters:
+
+    http://www.open-mpi.org/faq/?category=openfabrics#ib-locked-pages
+
+  Local host:              node10
+  Registerable memory:     32768 MiB
+  Total memory:            65508 MiB
+
+Your MPI job will continue, but may be behave poorly and/or hang.
+--------------------------------------------------------------------------
+[Threads] Nodes: 1 Threads/Node: 4
+[Realtime]	 23.535920
+[Clocktime]	 64.780000
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 16525: </gpfs1/openmpi/bin/mpirun ./hybrid 4 200000000> Done
+
+Job </gpfs1/openmpi/bin/mpirun ./hybrid 4 200000000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/ExtraGrades/mergesort> was used as the working directory.
+Started at Wed Apr 16 02:38:25 2014
+Results reported at Wed Apr 16 02:39:17 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/gpfs1/openmpi/bin/mpirun ./hybrid 4 200000000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    135.38 sec.
+    Max Memory :      1160 MB
+    Max Swap   :      1834 MB
+
+    Max Processes  :         4
+    Max Threads    :        16
+
+The output (if any) follows:
+
+--------------------------------------------------------------------------
+WARNING: It appears that your OpenFabrics subsystem is configured to only
+allow registering part of your physical memory.  This can cause MPI jobs to
+run with erratic performance, hang, and/or crash.
+
+This may be caused by your OpenFabrics vendor limiting the amount of
+physical memory that can be registered.  You should investigate the
+relevant Linux kernel module parameters that control how much physical
+memory can be registered, and increase them to allow registering all
+physical memory on your machine.
+
+See this Open MPI FAQ item for more information on these Linux kernel module
+parameters:
+
+    http://www.open-mpi.org/faq/?category=openfabrics#ib-locked-pages
+
+  Local host:              node02
+  Registerable memory:     32768 MiB
+  Total memory:            65508 MiB
+
+Your MPI job will continue, but may be behave poorly and/or hang.
+--------------------------------------------------------------------------
+[Threads] Nodes: 1 Threads/Node: 4
+[Realtime]	 46.645206
+[Clocktime]	 130.770000
+Sender: LSF System <hpcadmin@node14>
+Subject: Job 16526: </gpfs1/openmpi/bin/mpirun ./hybrid 4 400000000> Done
+
+Job </gpfs1/openmpi/bin/mpirun ./hybrid 4 400000000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node14>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/ExtraGrades/mergesort> was used as the working directory.
+Started at Wed Apr 16 02:38:32 2014
+Results reported at Wed Apr 16 02:40:08 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/gpfs1/openmpi/bin/mpirun ./hybrid 4 400000000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    274.30 sec.
+    Max Memory :      3057 MB
+    Max Swap   :      3360 MB
+
+    Max Processes  :         4
+    Max Threads    :        16
+
+The output (if any) follows:
+
+--------------------------------------------------------------------------
+WARNING: It appears that your OpenFabrics subsystem is configured to only
+allow registering part of your physical memory.  This can cause MPI jobs to
+run with erratic performance, hang, and/or crash.
+
+This may be caused by your OpenFabrics vendor limiting the amount of
+physical memory that can be registered.  You should investigate the
+relevant Linux kernel module parameters that control how much physical
+memory can be registered, and increase them to allow registering all
+physical memory on your machine.
+
+See this Open MPI FAQ item for more information on these Linux kernel module
+parameters:
+
+    http://www.open-mpi.org/faq/?category=openfabrics#ib-locked-pages
+
+  Local host:              node14
+  Registerable memory:     32768 MiB
+  Total memory:            65508 MiB
+
+Your MPI job will continue, but may be behave poorly and/or hang.
+--------------------------------------------------------------------------
+[Threads] Nodes: 1 Threads/Node: 4
+[Realtime]	 81.709921
+[Clocktime]	 265.110000
+Sender: LSF System <hpcadmin@node15>
+Subject: Job 16527: </gpfs1/openmpi/bin/mpirun ./hybrid 4 500000000> Done
+
+Job </gpfs1/openmpi/bin/mpirun ./hybrid 4 500000000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node15>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/ExtraGrades/mergesort> was used as the working directory.
+Started at Wed Apr 16 02:38:35 2014
+Results reported at Wed Apr 16 02:40:37 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/gpfs1/openmpi/bin/mpirun ./hybrid 4 500000000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    400.79 sec.
+    Max Memory :      3820 MB
+    Max Swap   :      4123 MB
+
+    Max Processes  :         4
+    Max Threads    :        16
+
+The output (if any) follows:
+
+--------------------------------------------------------------------------
+WARNING: It appears that your OpenFabrics subsystem is configured to only
+allow registering part of your physical memory.  This can cause MPI jobs to
+run with erratic performance, hang, and/or crash.
+
+This may be caused by your OpenFabrics vendor limiting the amount of
+physical memory that can be registered.  You should investigate the
+relevant Linux kernel module parameters that control how much physical
+memory can be registered, and increase them to allow registering all
+physical memory on your machine.
+
+See this Open MPI FAQ item for more information on these Linux kernel module
+parameters:
+
+    http://www.open-mpi.org/faq/?category=openfabrics#ib-locked-pages
+
+  Local host:              node15
+  Registerable memory:     32768 MiB
+  Total memory:            65508 MiB
+
+Your MPI job will continue, but may be behave poorly and/or hang.
+--------------------------------------------------------------------------
+[Threads] Nodes: 1 Threads/Node: 4
+[Realtime]	 109.352602
+[Clocktime]	 388.950000

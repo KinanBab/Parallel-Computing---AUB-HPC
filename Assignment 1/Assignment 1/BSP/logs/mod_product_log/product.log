@@ -1,0 +1,275 @@
+P=1
+./modproduct 1 100000
+This took only 0.001974 seconds.
+./modproduct 1 150000
+This took only 0.003007 seconds.
+./modproduct 1 900000
+This took only 0.009257 seconds.
+./modproduct 1 950000
+This took only 0.009327 seconds.
+./modproduct 1 200000
+This took only 0.004752 seconds.
+./modproduct 1 250000
+This took only 0.002755 seconds.
+./modproduct 1 300000
+This took only 0.051949 seconds.
+./modproduct 1 850000
+This took only 0.041791 seconds.
+./modproduct 1 800000
+This took only 0.030037 seconds.
+./modproduct 1 750000
+This took only 0.041945 seconds.
+./modproduct 1 700000
+This took only 0.048682 seconds.
+./modproduct 1 650000
+This took only 0.035714 seconds.
+./modproduct 1 600000
+This took only 0.005853 seconds.
+./modproduct 1 550000
+This took only 0.084147 seconds.
+./modproduct 1 500000
+This took only 0.054001 seconds.
+./modproduct 1 450000
+This took only 0.044718 seconds.
+./modproduct 1 400000
+This took only 0.076303 seconds.
+./modproduct 1 350000
+This took only 0.003429 seconds.
+./modproduct 1 1000000
+This took only 0.013637 seconds.
+P=2
+./modproduct 2 500000
+This took only 0.030008 seconds.
+./modproduct 2 400000
+This took only 0.006905 seconds.
+./modproduct 2 450000
+This took only 0.019756 seconds.
+./modproduct 2 950000
+This took only 0.059236 seconds.
+./modproduct 2 1000000
+This took only 0.050259 seconds.
+./modproduct 2 100000
+This took only 0.001065 seconds.
+./modproduct 2 850000
+This took only 0.004240 seconds.
+./modproduct 2 800000
+This took only 0.187339 seconds.
+./modproduct 2 750000
+This took only 0.070007 seconds.
+./modproduct 2 700000
+This took only 0.063539 seconds.
+./modproduct 2 650000
+This took only 0.154792 seconds.
+./modproduct 2 600000
+This took only 0.035005 seconds.
+./modproduct 2 550000
+This took only 0.096853 seconds.
+./modproduct 2 900000
+This took only 0.006578 seconds.
+./modproduct 2 350000
+This took only 0.027698 seconds.
+./modproduct 2 300000
+This took only 0.028914 seconds.
+./modproduct 2 250000
+This took only 0.011489 seconds.
+./modproduct 2 200000
+This took only 0.047565 seconds.
+./modproduct 2 150000
+This took only 0.035537 seconds.
+P=4
+./modproduct 4 250000
+This took only 0.025771 seconds.
+./modproduct 4 300000
+This took only 0.005829 seconds.
+./modproduct 4 200000
+This took only 0.081352 seconds.
+./modproduct 4 150000
+This took only 0.058953 seconds.
+./modproduct 4 100000
+This took only 0.065112 seconds.
+./modproduct 4 500000
+This took only 0.100003 seconds.
+./modproduct 4 450000
+This took only 0.124813 seconds.
+./modproduct 4 650000
+This took only 0.188999 seconds.
+./modproduct 4 400000
+This took only 0.209875 seconds.
+./modproduct 4 600000
+This took only 0.215250 seconds.
+./modproduct 4 350000
+This took only 0.200221 seconds.
+./modproduct 4 550000
+This took only 0.245079 seconds.
+./modproduct 4 700000
+This took only 0.217349 seconds.
+./modproduct 4 900000
+This took only 0.233994 seconds.
+./modproduct 4 850000
+This took only 0.256017 seconds.
+./modproduct 4 800000
+This took only 0.225232 seconds.
+./modproduct 4 750000
+This took only 0.200129 seconds.
+./modproduct 4 950000
+This took only 0.005076 seconds.
+./modproduct 4 1000000
+This took only 0.009949 seconds.
+P=6
+./modproduct 6 150000
+This took only 0.000420 seconds.
+./modproduct 6 200000
+This took only 0.000441 seconds.
+./modproduct 6 350000
+This took only 0.030944 seconds.
+./modproduct 6 400000
+This took only 0.000956 seconds.
+./modproduct 6 300000
+This took only 0.010410 seconds.
+./modproduct 6 250000
+This took only 0.027990 seconds.
+./modproduct 6 100000
+This took only 0.000263 seconds.
+./modproduct 6 450000
+This took only 0.001686 seconds.
+./modproduct 6 500000
+This took only 0.001829 seconds.
+./modproduct 6 750000
+This took only 0.002625 seconds.
+./modproduct 6 700000
+This took only 0.008314 seconds.
+./modproduct 6 850000
+This took only 0.019898 seconds.
+./modproduct 6 900000
+This took only 0.012930 seconds.
+./modproduct 6 600000
+This took only 0.002252 seconds.
+./modproduct 6 1000000
+This took only 0.040134 seconds.
+./modproduct 6 650000
+This took only 0.002263 seconds.
+./modproduct 6 800000
+This took only 0.002605 seconds.
+./modproduct 6 950000
+This took only 0.003506 seconds.
+./modproduct 6 550000
+This took only 0.001936 seconds.
+P=8
+./modproduct 8 500000
+This took only 0.001524 seconds.
+./modproduct 8 100000
+This took only 0.024017 seconds.
+./modproduct 8 350000
+This took only 0.001145 seconds.
+./modproduct 8 300000
+This took only 0.009677 seconds.
+./modproduct 8 450000
+This took only 0.098597 seconds.
+./modproduct 8 500000
+This took only 0.080078 seconds.
+./modproduct 8 150000
+This took only 0.000620 seconds.
+./modproduct 8 200000
+This took only 0.000759 seconds.
+./modproduct 8 700000
+This took only 0.015956 seconds.
+./modproduct 8 650000
+This took only 0.032715 seconds.
+./modproduct 8 600000
+This took only 0.090072 seconds.
+./modproduct 8 550000
+This took only 0.094873 seconds.
+./modproduct 8 900000
+This took only 0.001446 seconds.
+./modproduct 8 1000000
+This took only 0.002781 seconds.
+./modproduct 8 250000
+This took only 0.000947 seconds.
+./modproduct 8 400000
+This took only 0.001399 seconds.
+./modproduct 8 950000
+This took only 0.001431 seconds.
+./modproduct 8 750000
+This took only 0.001845 seconds.
+./modproduct 8 800000
+This took only 0.002395 seconds.
+./modproduct 8 850000
+This took only 0.002329 seconds.
+P=12
+./modproduct 12 100000
+This took only 0.000644 seconds.
+./modproduct 12 200000
+This took only 0.000850 seconds.
+./modproduct 12 250000
+This took only 0.000893 seconds.
+./modproduct 12 150000
+This took only 0.000797 seconds.
+./modproduct 12 450000
+This took only 0.001167 seconds.
+./modproduct 12 300000
+This took only 0.001058 seconds.
+./modproduct 12 400000
+This took only 0.001241 seconds.
+./modproduct 12 350000
+This took only 0.001108 seconds.
+./modproduct 12 550000
+This took only 0.001240 seconds.
+./modproduct 12 600000
+This took only 0.001217 seconds.
+./modproduct 12 500000
+This took only 0.001348 seconds.
+./modproduct 12 650000
+This took only 0.001514 seconds.
+./modproduct 12 850000
+This took only 0.001920 seconds.
+./modproduct 12 700000
+This took only 0.001634 seconds.
+./modproduct 12 750000
+This took only 0.001554 seconds.
+./modproduct 12 900000
+This took only 0.001989 seconds.
+./modproduct 12 950000
+This took only 0.001682 seconds.
+./modproduct 12 800000
+This took only 0.001409 seconds.
+./modproduct 12 1000000
+This took only 0.002023 seconds.
+P=16
+./modproduct 16 100000
+This took only 0.000861 seconds.
+./modproduct 16 200000
+This took only 0.000863 seconds.
+./modproduct 16 250000
+This took only 0.001230 seconds.
+./modproduct 16 150000
+This took only 0.001028 seconds.
+./modproduct 16 350000
+This took only 0.001215 seconds.
+./modproduct 16 400000
+This took only 0.001270 seconds.
+./modproduct 16 300000
+This took only 0.000811 seconds.
+./modproduct 16 450000
+This took only 0.001025 seconds.
+./modproduct 16 500000
+This took only 0.001528 seconds.
+./modproduct 16 550000
+This took only 0.001096 seconds.
+./modproduct 16 650000
+This took only 0.001345 seconds.
+./modproduct 16 700000
+This took only 0.001559 seconds.
+./modproduct 16 600000
+This took only 0.001587 seconds.
+./modproduct 16 750000
+This took only 0.001521 seconds.
+./modproduct 16 850000
+This took only 0.001907 seconds.
+./modproduct 16 800000
+This took only 0.001826 seconds.
+./modproduct 16 1000000
+This took only 0.002084 seconds.
+./modproduct 16 950000
+This took only 0.001880 seconds.
+./modproduct 16 900000
+This took only 0.001885 seconds.

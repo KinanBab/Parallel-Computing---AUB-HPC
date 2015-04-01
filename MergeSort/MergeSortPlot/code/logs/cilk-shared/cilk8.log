@@ -1,0 +1,240 @@
+Sender: LSF System <hpcadmin@node03>
+Subject: Job 16361: <./sharedcilk --stats 1 --nproc 8 1000000> Done
+
+Job <./sharedcilk --stats 1 --nproc 8 1000000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node03>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/ExtraGrades/mergesort> was used as the working directory.
+Started at Wed Apr 16 02:29:54 2014
+Results reported at Wed Apr 16 02:30:03 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./sharedcilk --stats 1 --nproc 8 1000000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.47 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 8 processors: 61.863000 ms
+Total work = 234.924000 ms
+Total work (accumulated) = 234.176000 ms
+Span = 37.040000 ms
+Parallelism = 6.322246
+[Realtime]	 0.037873
+[Clocktime]	 0.280000
+Sender: LSF System <hpcadmin@node14>
+Subject: Job 16360: <./sharedcilk --stats 1 --nproc 8 10000> Done
+
+Job <./sharedcilk --stats 1 --nproc 8 10000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node14>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/ExtraGrades/mergesort> was used as the working directory.
+Started at Wed Apr 16 02:29:54 2014
+Results reported at Wed Apr 16 02:30:03 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./sharedcilk --stats 1 --nproc 8 10000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.03 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 8 processors: 3.197000 ms
+Total work = 4.645000 ms
+Total work (accumulated) = 4.064000 ms
+Span = 1.274000 ms
+Parallelism = 3.189953
+[Realtime]	 0.001114
+[Clocktime]	 0.000000
+Sender: LSF System <hpcadmin@node13>
+Subject: Job 16362: <./sharedcilk --stats 1 --nproc 8 100000000> Done
+
+Job <./sharedcilk --stats 1 --nproc 8 100000000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node13>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/ExtraGrades/mergesort> was used as the working directory.
+Started at Wed Apr 16 02:29:55 2014
+Results reported at Wed Apr 16 02:30:04 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./sharedcilk --stats 1 --nproc 8 100000000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :     52.87 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 8 processors: 7.016992 s
+Total work = 28.072059 s
+Total work (accumulated) = 28.047246 s
+Span = 4.141215 s
+Parallelism = 6.772709
+[Realtime]	 4.376699
+[Clocktime]	 33.220000
+Sender: LSF System <hpcadmin@node08>
+Subject: Job 16363: <./sharedcilk --stats 1 --nproc 8 200000000> Done
+
+Job <./sharedcilk --stats 1 --nproc 8 200000000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node08>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/ExtraGrades/mergesort> was used as the working directory.
+Started at Wed Apr 16 02:29:57 2014
+Results reported at Wed Apr 16 02:30:13 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./sharedcilk --stats 1 --nproc 8 200000000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :     93.26 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 8 processors: 13.101008 s
+Total work = 54.080830 s
+Total work (accumulated) = 54.033253 s
+Span = 7.411236 s
+Parallelism = 7.290721
+[Realtime]	 8.565987
+[Clocktime]	 64.490000
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 16364: <./sharedcilk --stats 1 --nproc 8 400000000> Done
+
+Job <./sharedcilk --stats 1 --nproc 8 400000000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/ExtraGrades/mergesort> was used as the working directory.
+Started at Wed Apr 16 02:30:03 2014
+Results reported at Wed Apr 16 02:30:29 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./sharedcilk --stats 1 --nproc 8 400000000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    194.53 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 8 processors: 25.711610 s
+Total work = 107.876989 s
+Total work (accumulated) = 107.767549 s
+Span = 14.559404 s
+Parallelism = 7.401920
+[Realtime]	 16.986767
+[Clocktime]	 128.310000
+Sender: LSF System <hpcadmin@node14>
+Subject: Job 16365: <./sharedcilk --stats 1 --nproc 8 500000000> Done
+
+Job <./sharedcilk --stats 1 --nproc 8 500000000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node14>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/ExtraGrades/mergesort> was used as the working directory.
+Started at Wed Apr 16 02:30:04 2014
+Results reported at Wed Apr 16 02:30:40 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./sharedcilk --stats 1 --nproc 8 500000000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    256.80 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 8 processors: 33.779677 s
+Total work = 146.001846 s
+Total work (accumulated) = 145.914826 s
+Span = 18.683707 s
+Parallelism = 7.809736
+[Realtime]	 22.239754
+[Clocktime]	 169.680000

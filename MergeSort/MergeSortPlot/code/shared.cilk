@@ -1,0 +1,49 @@
+#include "common.c"
+/*
+ * Based on: 
+ * Radenski A., 
+ * Shared Memory, Message Passing, and Hybrid Merge Sorts for Standalone and Clustered SMPs.
+ * Proceedings PDPTA'11, the 2011 International Conference on Parallel and Distributed Processing Techniques and Applications,
+ * CSREA Press,
+ * 2011.
+ * http://www1.chapman.edu/~radenski/research/papers/mergesort-pdpta11.pdf
+ */
+
+cilk void mergesort_shared(int a[], int size, int temp[])
+{
+	if(size <= SMALL)
+	{
+		insertion_sort(a, size);
+	}
+	else
+	{
+		spawn mergesort_shared(a, size/2, temp);
+		spawn mergesort_shared(a + size/2, size - size/2,
+   				temp + size/2) ;
+		sync;
+		merge(a, size, temp);
+	}
+}
+int * a;
+int * t;
+cilk int main(int argc, char *argv[])
+{
+	int n;
+	sscanf(argv[1], "%d", &n);    
+ 
+	a = (int *) malloc(n * sizeof(int));
+	t = (int *) malloc(n * sizeof(int));
+	randomize_array(a, n, 1, n * 5);
+
+	bench_mark(&bclock);
+	bench_mark(&breal);
+	spawn mergesort_shared(a, n, t);
+	sync;
+	bench_unmark_all();
+	
+	//if(!verify_sorted(a, n))
+	//	printf("Failed\n");
+	free(a);
+	free(t);
+	return(0);
+}

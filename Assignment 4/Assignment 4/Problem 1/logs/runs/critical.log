@@ -1,0 +1,620 @@
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 22030: <./pi-critical.o 100000 1> Exited
+
+Job <./pi-critical.o 100000 1> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:53 2014
+Results reported at Thu Apr 24 15:25:53 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 100000 1
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.02 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.005136,100000,1,kinan
+Sender: LSF System <hpcadmin@node08>
+Subject: Job 22036: <./pi-critical.o 100000 4> Exited
+
+Job <./pi-critical.o 100000 4> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node08>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:54 2014
+Results reported at Thu Apr 24 15:25:54 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 100000 4
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.28 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.066909,100000,4,kinan
+Sender: LSF System <hpcadmin@node13>
+Subject: Job 22039: <./pi-critical.o 100000 8> Exited
+
+Job <./pi-critical.o 100000 8> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node13>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:55 2014
+Results reported at Thu Apr 24 15:25:55 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 100000 8
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      1.12 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.153171,100000,8,kinan
+Sender: LSF System <hpcadmin@node14>
+Subject: Job 22042: <./pi-critical.o 100000 12> Exited
+
+Job <./pi-critical.o 100000 12> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node14>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:55 2014
+Results reported at Thu Apr 24 15:25:56 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 100000 12
+------------------------------------------------------------
+
+Exited with exit code 25.
+
+Resource usage summary:
+
+    CPU time   :      1.27 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.105285,100000,12,kinan
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 22033: <./pi-critical.o 100000 2> Exited
+
+Job <./pi-critical.o 100000 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:54 2014
+Results reported at Thu Apr 24 15:25:56 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 100000 2
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.05 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.014356,100000,2,kinan
+Sender: LSF System <hpcadmin@node14>
+Subject: Job 22057: <./pi-critical.o 200000 12> Exited
+
+Job <./pi-critical.o 200000 12> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node14>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:58 2014
+Results reported at Thu Apr 24 15:25:59 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 200000 12
+------------------------------------------------------------
+
+Exited with exit code 25.
+
+Resource usage summary:
+
+    CPU time   :      2.50 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.208485,200000,12,kinan
+Sender: LSF System <hpcadmin@node04>
+Subject: Job 22069: <./pi-critical.o 500000 8> Exited
+
+Job <./pi-critical.o 500000 8> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node04>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:59 2014
+Results reported at Thu Apr 24 15:25:59 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 500000 8
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      3.47 sec.
+    Max Memory :         2 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.444419,500000,8,kinan
+Sender: LSF System <hpcadmin@node10>
+Subject: Job 22072: <./pi-critical.o 500000 12> Exited
+
+Job <./pi-critical.o 500000 12> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node10>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:59 2014
+Results reported at Thu Apr 24 15:25:59 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 500000 12
+------------------------------------------------------------
+
+Exited with exit code 25.
+
+Resource usage summary:
+
+    CPU time   :      6.50 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.551587,500000,12,kinan
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 22048: <./pi-critical.o 200000 2> Exited
+
+Job <./pi-critical.o 200000 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:57 2014
+Results reported at Thu Apr 24 15:25:59 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 200000 2
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.08 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.032925,200000,2,kinan
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 22051: <./pi-critical.o 200000 4> Exited
+
+Job <./pi-critical.o 200000 4> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:57 2014
+Results reported at Thu Apr 24 15:26:00 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 200000 4
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.55 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.135895,200000,4,kinan
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 22075: <./pi-critical.o 1000000 1> Exited
+
+Job <./pi-critical.o 1000000 1> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:26:00 2014
+Results reported at Thu Apr 24 15:26:02 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 1000000 1
+------------------------------------------------------------
+
+Exited with exit code 25.
+
+Resource usage summary:
+
+    CPU time   :      0.04 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.026266,1000000,1,kinan
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 22078: <./pi-critical.o 1000000 2> Exited
+
+Job <./pi-critical.o 1000000 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:26:00 2014
+Results reported at Thu Apr 24 15:26:02 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 1000000 2
+------------------------------------------------------------
+
+Exited with exit code 25.
+
+Resource usage summary:
+
+    CPU time   :      0.31 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.149518,1000000,2,kinan
+Sender: LSF System <hpcadmin@node14>
+Subject: Job 22081: <./pi-critical.o 1000000 4> Exited
+
+Job <./pi-critical.o 1000000 4> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node14>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:26:00 2014
+Results reported at Thu Apr 24 15:26:02 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 1000000 4
+------------------------------------------------------------
+
+Exited with exit code 25.
+
+Resource usage summary:
+
+    CPU time   :      2.39 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.595129,1000000,4,kinan
+Sender: LSF System <hpcadmin@node10>
+Subject: Job 22087: <./pi-critical.o 1000000 12> Exited
+
+Job <./pi-critical.o 1000000 12> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node10>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:26:01 2014
+Results reported at Thu Apr 24 15:26:03 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 1000000 12
+------------------------------------------------------------
+
+Exited with exit code 26.
+
+Resource usage summary:
+
+    CPU time   :     12.22 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+1.020278,1000000,12,kinan
+Sender: LSF System <hpcadmin@node11>
+Subject: Job 22084: <./pi-critical.o 1000000 8> Exited
+
+Job <./pi-critical.o 1000000 8> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node11>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:26:01 2014
+Results reported at Thu Apr 24 15:26:04 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 1000000 8
+------------------------------------------------------------
+
+Exited with exit code 25.
+
+Resource usage summary:
+
+    CPU time   :      6.77 sec.
+    Max Memory :         2 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.847174,1000000,8,kinan
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 22054: <./pi-critical.o 200000 8> Exited
+
+Job <./pi-critical.o 200000 8> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:57 2014
+Results reported at Thu Apr 24 15:26:05 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 200000 8
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      1.59 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.208339,200000,8,kinan
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 22063: <./pi-critical.o 500000 2> Exited
+
+Job <./pi-critical.o 500000 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:26:05 2014
+Results reported at Thu Apr 24 15:26:11 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 500000 2
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.20 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.093350,500000,2,kinan
+Sender: LSF System <hpcadmin@node03>
+Subject: Job 22066: <./pi-critical.o 500000 4> Exited
+
+Job <./pi-critical.o 500000 4> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node03>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:59 2014
+Results reported at Thu Apr 24 15:26:11 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 500000 4
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.51 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.125689,500000,4,kinan
+Sender: LSF System <hpcadmin@node08>
+Subject: Job 22060: <./pi-critical.o 500000 1> Exited
+
+Job <./pi-critical.o 500000 1> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node08>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:58 2014
+Results reported at Thu Apr 24 15:26:16 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 500000 1
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.03 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.013786,500000,1,kinan
+Sender: LSF System <hpcadmin@node13>
+Subject: Job 22045: <./pi-critical.o 200000 1> Exited
+
+Job <./pi-critical.o 200000 1> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node13>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Thu Apr 24 15:25:56 2014
+Results reported at Thu Apr 24 15:26:16 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-critical.o 200000 1
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.02 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.010456,200000,1,kinan

@@ -1,0 +1,204 @@
+Sender: LSF System <hpcadmin@node14>
+Subject: Job 16384: <./shared 4 10000> Done
+
+Job <./shared 4 10000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node14>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/ExtraGrades/mergesort> was used as the working directory.
+Started at Wed Apr 16 02:31:21 2014
+Results reported at Wed Apr 16 02:31:21 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./shared 4 10000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+[Threads] 4
+Input 10000
+[Realtime]	 0.004762
+[Clocktime]	 0.000000
+Sender: LSF System <hpcadmin@node14>
+Subject: Job 16385: <./shared 4 1000000> Done
+
+Job <./shared 4 1000000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node14>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/ExtraGrades/mergesort> was used as the working directory.
+Started at Wed Apr 16 02:31:21 2014
+Results reported at Wed Apr 16 02:31:22 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./shared 4 1000000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.66 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+[Threads] 4
+Input 1000000
+[Realtime]	 0.628078
+[Clocktime]	 0.630000
+Sender: LSF System <hpcadmin@node15>
+Subject: Job 16387: <./shared 4 200000000> Done
+
+Job <./shared 4 200000000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node15>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/ExtraGrades/mergesort> was used as the working directory.
+Started at Wed Apr 16 02:31:21 2014
+Results reported at Wed Apr 16 02:32:05 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./shared 4 200000000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    135.44 sec.
+    Max Memory :      1153 MB
+    Max Swap   :      1728 MB
+
+    Max Processes  :         3
+    Max Threads    :         7
+
+The output (if any) follows:
+
+[Threads] 4
+Input 200000000
+[Realtime]	 40.696768
+[Clocktime]	 132.260000
+Sender: LSF System <hpcadmin@node14>
+Subject: Job 16386: <./shared 4 100000000> Done
+
+Job <./shared 4 100000000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node14>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/ExtraGrades/mergesort> was used as the working directory.
+Started at Wed Apr 16 02:31:21 2014
+Results reported at Wed Apr 16 02:32:21 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./shared 4 100000000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :     60.19 sec.
+    Max Memory :       409 MB
+    Max Swap   :       895 MB
+
+    Max Processes  :         3
+    Max Threads    :         4
+
+The output (if any) follows:
+
+[Threads] 4
+Input 100000000
+[Realtime]	 58.833901
+[Clocktime]	 58.820000
+Sender: LSF System <hpcadmin@node10>
+Subject: Job 16388: <./shared 4 400000000> Done
+
+Job <./shared 4 400000000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node10>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/ExtraGrades/mergesort> was used as the working directory.
+Started at Wed Apr 16 02:31:21 2014
+Results reported at Wed Apr 16 02:32:36 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./shared 4 400000000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    264.74 sec.
+    Max Memory :      2297 MB
+    Max Swap   :      3253 MB
+
+    Max Processes  :         3
+    Max Threads    :         7
+
+The output (if any) follows:
+
+[Threads] 4
+Input 400000000
+[Realtime]	 70.026520
+[Clocktime]	 259.650000
+Sender: LSF System <hpcadmin@node10>
+Subject: Job 16389: <./shared 4 500000000> Done
+
+Job <./shared 4 500000000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node10>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/ExtraGrades/mergesort> was used as the working directory.
+Started at Wed Apr 16 02:31:21 2014
+Results reported at Wed Apr 16 02:33:08 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./shared 4 500000000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    370.23 sec.
+    Max Memory :      2869 MB
+    Max Swap   :      4016 MB
+
+    Max Processes  :         3
+    Max Threads    :         7
+
+The output (if any) follows:
+
+[Threads] 4
+Input 500000000
+[Realtime]	 97.190125
+[Clocktime]	 363.860000

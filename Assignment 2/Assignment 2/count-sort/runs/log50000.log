@@ -1,0 +1,31 @@
+Sender: LSF System <hpcadmin@node07>
+Subject: Job 11285: <./countsort 8 50000> Done
+
+Job <./countsort 8 50000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node07>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 2/count-sort> was used as the working directory.
+Started at Sat Mar 15 16:55:12 2014
+Results reported at Sat Mar 15 16:55:12 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./countsort 8 50000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.07 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Number of processors: 8 	 Input Size: 50000 	 Time Taken: 0.00388014

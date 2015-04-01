@@ -1,0 +1,8 @@
+#!/bin/bash
+for P in 1 2 4 6 8 12 16
+do
+	for n in {100000..1000000..50000}
+	do
+		make runproduct N=${n} CORES=${P}
+	done
+done

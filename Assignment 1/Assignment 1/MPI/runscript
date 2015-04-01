@@ -1,0 +1,14 @@
+#!/bin/bash
+counter=1
+for N in 1 2 4 6 8 12 16
+do
+	for MAXH in {256..800..100}
+	do
+		for MAXN in {512..1500..100}
+		do
+			make runbench log=${counter} N=${N} ptile=1 MAXH=${MAXH} MAXN=${MAXN}
+			counter=`expr $counter + 1`
+		done
+	done
+done
+echo ${counter}

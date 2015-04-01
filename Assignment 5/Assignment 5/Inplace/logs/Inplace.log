@@ -1,0 +1,1440 @@
+Sender: LSF System <hpcadmin@node14>
+Subject: Job 23072: <./multiply --stats 1 --nproc 8 600 8> Done
+
+Job <./multiply --stats 1 --nproc 8 600 8> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node14>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:41 2014
+Results reported at Fri May  9 06:09:46 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 8 600 8
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :     27.69 sec.
+    Max Memory :         6 MB
+    Max Swap   :       661 MB
+
+    Max Processes  :         3
+    Max Threads    :        12
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 8 processors: 3.470046 s
+Total work = 27.602768 s
+Total work (accumulated) = 20.446077 s
+Span = 23.412000 ms
+Parallelism = 873.316120
+
+BENCH: 600,8
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 23066: <./multiply --stats 1 --nproc 4 600 4> Done
+
+Job <./multiply --stats 1 --nproc 4 600 4> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:40 2014
+Results reported at Fri May  9 06:09:47 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 4 600 4
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :     28.31 sec.
+    Max Memory :         5 MB
+    Max Swap   :       396 MB
+
+    Max Processes  :         3
+    Max Threads    :         8
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 4 processors: 7.094384 s
+Total work = 28.311180 s
+Total work (accumulated) = 21.797462 s
+Span = 24.848000 ms
+Parallelism = 877.232051
+
+BENCH: 600,4
+Sender: LSF System <hpcadmin@node12>
+Subject: Job 23060: <./multiply --stats 1 --nproc 2 600 2> Done
+
+Job <./multiply --stats 1 --nproc 2 600 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node12>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:40 2014
+Results reported at Fri May  9 06:09:55 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 2 600 2
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :     28.14 sec.
+    Max Memory :         5 MB
+    Max Swap   :       263 MB
+
+    Max Processes  :         3
+    Max Threads    :         6
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 2 processors: 14.823698 s
+Total work = 29.591781 s
+Total work (accumulated) = 22.374500 s
+Span = 101.282000 ms
+Parallelism = 220.912897
+
+BENCH: 600,2
+Sender: LSF System <hpcadmin@node06>
+Subject: Job 23054: <./multiply --stats 1 --nproc 1 600 1> Done
+
+Job <./multiply --stats 1 --nproc 1 600 1> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node06>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:40 2014
+Results reported at Fri May  9 06:10:08 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 1 600 1
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :     27.72 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 1 processor: 27.757930 s
+Total work = 27.757453 s
+Total work (accumulated) = 20.427758 s
+Span = 19.636000 ms
+Parallelism = 1040.321756
+
+BENCH: 600,1
+Sender: LSF System <hpcadmin@node12>
+Subject: Job 23073: <./multiply --stats 1 --nproc 8 1200 8> Done
+
+Job <./multiply --stats 1 --nproc 8 1200 8> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node12>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:44 2014
+Results reported at Fri May  9 06:10:13 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 8 1200 8
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    227.71 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 8 processors: 28.922690 s
+Total work = 230.780472 s
+Total work (accumulated) = 161.387789 s
+Span = 156.196000 ms
+Parallelism = 1033.238937
+
+BENCH: 1200,8
+Sender: LSF System <hpcadmin@node14>
+Subject: Job 23074: <./multiply --stats 1 --nproc 8 1800 8> Done
+
+Job <./multiply --stats 1 --nproc 8 1800 8> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node14>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:47 2014
+Results reported at Fri May  9 06:10:17 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 8 1800 8
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    221.38 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 8 processors: 27.757293 s
+Total work = 220.788498 s
+Total work (accumulated) = 162.393652 s
+Span = 202.921000 ms
+Parallelism = 800.280168
+
+BENCH: 1800,8
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 23078: <./multiply --stats 1 --nproc 12 600 12> Done
+
+Job <./multiply --stats 1 --nproc 12 600 12> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:10:23 2014
+Results reported at Fri May  9 06:10:26 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 12 600 12
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :     27.97 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 12 processors: 2.359266 s
+Total work = 28.043340 s
+Total work (accumulated) = 19.844226 s
+Span = 53.446000 ms
+Parallelism = 371.294877
+
+BENCH: 600,12
+Sender: LSF System <hpcadmin@node07>
+Subject: Job 23068: <./multiply --stats 1 --nproc 4 1800 4> Done
+
+Job <./multiply --stats 1 --nproc 4 1800 4> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node07>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:41 2014
+Results reported at Fri May  9 06:10:37 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 4 1800 4
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    221.22 sec.
+    Max Memory :        38 MB
+    Max Swap   :       396 MB
+
+    Max Processes  :         3
+    Max Threads    :         8
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 4 processors: 55.679497 s
+Total work = 222.195625 s
+Total work (accumulated) = 161.527007 s
+Span = 241.399000 ms
+Parallelism = 669.128733
+
+BENCH: 1800,4
+Sender: LSF System <hpcadmin@node05>
+Subject: Job 23067: <./multiply --stats 1 --nproc 4 1200 4> Done
+
+Job <./multiply --stats 1 --nproc 4 1200 4> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node05>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:40 2014
+Results reported at Fri May  9 06:10:38 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 4 1200 4
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    228.83 sec.
+    Max Memory :        18 MB
+    Max Swap   :       396 MB
+
+    Max Processes  :         3
+    Max Threads    :         8
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 4 processors: 57.536631 s
+Total work = 229.902362 s
+Total work (accumulated) = 174.397816 s
+Span = 148.525000 ms
+Parallelism = 1174.198391
+
+BENCH: 1200,4
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 23079: <./multiply --stats 1 --nproc 12 1200 12> Done
+
+Job <./multiply --stats 1 --nproc 12 1200 12> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:10:26 2014
+Results reported at Fri May  9 06:10:45 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 12 1200 12
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    222.08 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 12 processors: 18.695494 s
+Total work = 223.360809 s
+Total work (accumulated) = 167.725434 s
+Span = 160.654000 ms
+Parallelism = 1044.016545
+
+BENCH: 1200,12
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 23080: <./multiply --stats 1 --nproc 12 1800 12> Done
+
+Job <./multiply --stats 1 --nproc 12 1800 12> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:10:41 2014
+Results reported at Fri May  9 06:11:00 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 12 1800 12
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    224.66 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 12 processors: 18.778751 s
+Total work = 223.285508 s
+Total work (accumulated) = 163.933152 s
+Span = 203.152000 ms
+Parallelism = 806.948255
+
+BENCH: 1800,12
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 23062: <./multiply --stats 1 --nproc 2 1800 2> Done
+
+Job <./multiply --stats 1 --nproc 2 1800 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:41 2014
+Results reported at Fri May  9 06:11:36 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 2 1800 2
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    227.58 sec.
+    Max Memory :        38 MB
+    Max Swap   :       263 MB
+
+    Max Processes  :         3
+    Max Threads    :         6
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 2 processors: 114.787382 s
+Total work = 229.404875 s
+Total work (accumulated) = 174.286562 s
+Span = 293.456000 ms
+Parallelism = 593.910372
+
+BENCH: 1800,2
+Sender: LSF System <hpcadmin@node14>
+Subject: Job 23061: <./multiply --stats 1 --nproc 2 1200 2> Done
+
+Job <./multiply --stats 1 --nproc 2 1200 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node14>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:40 2014
+Results reported at Fri May  9 06:11:36 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 2 1200 2
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    229.32 sec.
+    Max Memory :        18 MB
+    Max Swap   :       263 MB
+
+    Max Processes  :         3
+    Max Threads    :         6
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 2 processors: 115.316816 s
+Total work = 230.555224 s
+Total work (accumulated) = 171.622266 s
+Span = 151.776000 ms
+Parallelism = 1130.760239
+
+BENCH: 1200,2
+Sender: LSF System <hpcadmin@node06>
+Subject: Job 23055: <./multiply --stats 1 --nproc 1 1200 1> Done
+
+Job <./multiply --stats 1 --nproc 1 1200 1> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node06>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:40 2014
+Results reported at Fri May  9 06:13:16 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 1 1200 1
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    215.84 sec.
+    Max Memory :        18 MB
+    Max Swap   :       197 MB
+
+    Max Processes  :         3
+    Max Threads    :         5
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 1 processor: 216.185015 s
+Total work = 216.184366 s
+Total work (accumulated) = 152.157103 s
+Span = 74.822000 ms
+Parallelism = 2033.587755
+
+BENCH: 1200,1
+Sender: LSF System <hpcadmin@node05>
+Subject: Job 23082: <./multiply --stats 1 --nproc 12 3000 12> Done
+
+Job <./multiply --stats 1 --nproc 12 3000 12> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node05>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:10:46 2014
+Results reported at Fri May  9 06:13:18 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 12 3000 12
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1793.76 sec.
+    Max Memory :       105 MB
+    Max Swap   :       990 MB
+
+    Max Processes  :         3
+    Max Threads    :        16
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 12 processors: 151.172451 s
+Total work = 1808.695525 s
+Total work (accumulated) = 1373.893753 s
+Span = 697.848000 ms
+Parallelism = 1968.757886
+
+BENCH: 3000,12
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 23081: <./multiply --stats 1 --nproc 12 2400 12> Done
+
+Job <./multiply --stats 1 --nproc 12 2400 12> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:10:45 2014
+Results reported at Fri May  9 06:13:18 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 12 2400 12
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1819.82 sec.
+    Max Memory :        70 MB
+    Max Swap   :       990 MB
+
+    Max Processes  :         3
+    Max Threads    :        16
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 12 processors: 153.013552 s
+Total work = 1832.618313 s
+Total work (accumulated) = 1389.380925 s
+Span = 453.595000 ms
+Parallelism = 3063.042858
+
+BENCH: 2400,12
+Sender: LSF System <hpcadmin@node12>
+Subject: Job 23056: <./multiply --stats 1 --nproc 1 1800 1> Done
+
+Job <./multiply --stats 1 --nproc 1 1800 1> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node12>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:40 2014
+Results reported at Fri May  9 06:13:21 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 1 1800 1
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    220.59 sec.
+    Max Memory :        38 MB
+    Max Swap   :       197 MB
+
+    Max Processes  :         3
+    Max Threads    :         5
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 1 processor: 220.948695 s
+Total work = 220.947545 s
+Total work (accumulated) = 161.456956 s
+Span = 166.057000 ms
+Parallelism = 972.298404
+
+BENCH: 1800,1
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 23083: <./multiply --stats 1 --nproc 12 3600 12> Done
+
+Job <./multiply --stats 1 --nproc 12 3600 12> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:11:01 2014
+Results reported at Fri May  9 06:13:32 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 12 3600 12
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1809.22 sec.
+    Max Memory :       150 MB
+    Max Swap   :      1054 MB
+
+    Max Processes  :         3
+    Max Threads    :        16
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 12 processors: 151.234921 s
+Total work = 1807.168216 s
+Total work (accumulated) = 1332.774326 s
+Span = 781.086000 ms
+Parallelism = 1706.309326
+
+BENCH: 3600,12
+Sender: LSF System <hpcadmin@node12>
+Subject: Job 23075: <./multiply --stats 1 --nproc 8 2400 8> Done
+
+Job <./multiply --stats 1 --nproc 8 2400 8> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node12>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:10:13 2014
+Results reported at Fri May  9 06:13:52 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 8 2400 8
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1748.92 sec.
+    Max Memory :        70 MB
+    Max Swap   :       725 MB
+
+    Max Processes  :         3
+    Max Threads    :        12
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 8 processors: 219.048653 s
+Total work = 1750.230963 s
+Total work (accumulated) = 1255.530072 s
+Span = 313.953000 ms
+Parallelism = 3999.102006
+
+BENCH: 2400,8
+Sender: LSF System <hpcadmin@node13>
+Subject: Job 23077: <./multiply --stats 1 --nproc 8 3600 8> Done
+
+Job <./multiply --stats 1 --nproc 8 3600 8> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node13>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:10:23 2014
+Results reported at Fri May  9 06:14:04 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 8 3600 8
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1766.64 sec.
+    Max Memory :       150 MB
+    Max Swap   :       789 MB
+
+    Max Processes  :         3
+    Max Threads    :        12
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 8 processors: 221.285574 s
+Total work = 1765.540063 s
+Total work (accumulated) = 1301.652156 s
+Span = 685.527000 ms
+Parallelism = 1898.761327
+
+BENCH: 3600,8
+Sender: LSF System <hpcadmin@node14>
+Subject: Job 23076: <./multiply --stats 1 --nproc 8 3000 8> Done
+
+Job <./multiply --stats 1 --nproc 8 3000 8> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node14>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:10:18 2014
+Results reported at Fri May  9 06:14:05 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 8 3000 8
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1808.09 sec.
+    Max Memory :       105 MB
+    Max Swap   :       725 MB
+
+    Max Processes  :         3
+    Max Threads    :        12
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 8 processors: 227.081063 s
+Total work = 1813.299025 s
+Total work (accumulated) = 1349.586252 s
+Span = 581.446000 ms
+Parallelism = 2321.086140
+
+BENCH: 3000,8
+Sender: LSF System <hpcadmin@node14>
+Subject: Job 23070: <./multiply --stats 1 --nproc 4 3000 4> Done
+
+Job <./multiply --stats 1 --nproc 4 3000 4> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node14>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:43 2014
+Results reported at Fri May  9 06:16:55 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 4 3000 4
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1713.18 sec.
+    Max Memory :       105 MB
+    Max Swap   :       460 MB
+
+    Max Processes  :         3
+    Max Threads    :         8
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 4 processors: 429.575875 s
+Total work = 1716.893007 s
+Total work (accumulated) = 1264.532211 s
+Span = 574.515000 ms
+Parallelism = 2201.042986
+
+BENCH: 3000,4
+Sender: LSF System <hpcadmin@node16>
+Subject: Job 23069: <./multiply --stats 1 --nproc 4 2400 4> Done
+
+Job <./multiply --stats 1 --nproc 4 2400 4> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node16>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:41 2014
+Results reported at Fri May  9 06:17:02 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 4 2400 4
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1759.00 sec.
+    Max Memory :        67 MB
+    Max Swap   :       460 MB
+
+    Max Processes  :         3
+    Max Threads    :         8
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 4 processors: 441.110671 s
+Total work = 1763.528491 s
+Total work (accumulated) = 1282.057229 s
+Span = 386.340000 ms
+Parallelism = 3318.468781
+
+BENCH: 2400,4
+Sender: LSF System <hpcadmin@node11>
+Subject: Job 23071: <./multiply --stats 1 --nproc 4 3600 4> Done
+
+Job <./multiply --stats 1 --nproc 4 3600 4> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node11>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:42 2014
+Results reported at Fri May  9 06:17:17 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 4 3600 4
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1813.87 sec.
+    Max Memory :       150 MB
+    Max Swap   :       524 MB
+
+    Max Processes  :         3
+    Max Threads    :         8
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 4 processors: 455.085325 s
+Total work = 1818.342978 s
+Total work (accumulated) = 1301.064220 s
+Span = 735.076000 ms
+Parallelism = 1769.972384
+
+BENCH: 3600,4
+Sender: LSF System <hpcadmin@node07>
+Subject: Job 23084: <./multiply --stats 1 --nproc 16 600 16> Done
+
+Job <./multiply --stats 1 --nproc 16 600 16> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <16*node07>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:18:25 2014
+Results reported at Fri May  9 06:18:27 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 16 600 16
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :     28.43 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 16 processors: 1.846934 s
+Total work = 28.952243 s
+Total work (accumulated) = 21.188528 s
+Span = 81.410000 ms
+Parallelism = 260.269353
+
+BENCH: 600,16
+Sender: LSF System <hpcadmin@node07>
+Subject: Job 23085: <./multiply --stats 1 --nproc 16 1200 16> Done
+
+Job <./multiply --stats 1 --nproc 16 1200 16> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <16*node07>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:18:27 2014
+Results reported at Fri May  9 06:18:43 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 16 1200 16
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    228.69 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 16 processors: 14.886931 s
+Total work = 236.555781 s
+Total work (accumulated) = 179.878919 s
+Span = 284.935000 ms
+Parallelism = 631.298082
+
+BENCH: 1200,16
+Sender: LSF System <hpcadmin@node07>
+Subject: Job 23086: <./multiply --stats 1 --nproc 16 1800 16> Done
+
+Job <./multiply --stats 1 --nproc 16 1800 16> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <16*node07>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:18:44 2014
+Results reported at Fri May  9 06:18:59 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 16 1800 16
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    228.50 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 16 processors: 14.461363 s
+Total work = 228.027165 s
+Total work (accumulated) = 171.816583 s
+Span = 309.900000 ms
+Parallelism = 554.425889
+
+BENCH: 1800,16
+Sender: LSF System <hpcadmin@node07>
+Subject: Job 23087: <./multiply --stats 1 --nproc 16 2400 16> Done
+
+Job <./multiply --stats 1 --nproc 16 2400 16> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <16*node07>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:18:59 2014
+Results reported at Fri May  9 06:20:52 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 16 2400 16
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1805.71 sec.
+    Max Memory :        68 MB
+    Max Swap   :      1254 MB
+
+    Max Processes  :         3
+    Max Threads    :        20
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 16 processors: 113.280753 s
+Total work = 1807.553860 s
+Total work (accumulated) = 1342.491842 s
+Span = 434.729000 ms
+Parallelism = 3088.112001
+
+BENCH: 2400,16
+Sender: LSF System <hpcadmin@node07>
+Subject: Job 23088: <./multiply --stats 1 --nproc 16 3000 16> Done
+
+Job <./multiply --stats 1 --nproc 16 3000 16> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <16*node07>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:20:53 2014
+Results reported at Fri May  9 06:22:46 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 16 3000 16
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1795.82 sec.
+    Max Memory :       105 MB
+    Max Swap   :      1254 MB
+
+    Max Processes  :         3
+    Max Threads    :        20
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 16 processors: 112.968695 s
+Total work = 1798.791995 s
+Total work (accumulated) = 1322.281245 s
+Span = 781.670000 ms
+Parallelism = 1691.610584
+
+BENCH: 3000,16
+Sender: LSF System <hpcadmin@node13>
+Subject: Job 23064: <./multiply --stats 1 --nproc 2 3000 2> Done
+
+Job <./multiply --stats 1 --nproc 2 3000 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node13>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:42 2014
+Results reported at Fri May  9 06:22:59 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 2 3000 2
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1591.13 sec.
+    Max Memory :       104 MB
+    Max Swap   :       327 MB
+
+    Max Processes  :         3
+    Max Threads    :         6
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 2 processors: 797.023235 s
+Total work = 1593.586924 s
+Total work (accumulated) = 1147.614141 s
+Span = 479.472000 ms
+Parallelism = 2393.495639
+
+BENCH: 3000,2
+Sender: LSF System <hpcadmin@node08>
+Subject: Job 23089: <./multiply --stats 1 --nproc 16 3600 16> Done
+
+Job <./multiply --stats 1 --nproc 16 3600 16> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <16*node08>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:21:16 2014
+Results reported at Fri May  9 06:23:10 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 16 3600 16
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1817.02 sec.
+    Max Memory :       150 MB
+    Max Swap   :      1318 MB
+
+    Max Processes  :         3
+    Max Threads    :        20
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 16 processors: 113.987218 s
+Total work = 1811.500987 s
+Total work (accumulated) = 1381.837389 s
+Span = 941.488000 ms
+Parallelism = 1467.716412
+
+BENCH: 3600,16
+Sender: LSF System <hpcadmin@node05>
+Subject: Job 23063: <./multiply --stats 1 --nproc 2 2400 2> Done
+
+Job <./multiply --stats 1 --nproc 2 2400 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node05>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:41 2014
+Results reported at Fri May  9 06:23:49 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 2 2400 2
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1683.03 sec.
+    Max Memory :        67 MB
+    Max Swap   :       327 MB
+
+    Max Processes  :         3
+    Max Threads    :         6
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 2 processors: 845.815958 s
+Total work = 1691.335459 s
+Total work (accumulated) = 1301.179927 s
+Span = 425.104000 ms
+Parallelism = 3060.850820
+
+BENCH: 2400,2
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 23065: <./multiply --stats 1 --nproc 2 3600 2> Done
+
+Job <./multiply --stats 1 --nproc 2 3600 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:42 2014
+Results reported at Fri May  9 06:24:01 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 2 3600 2
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1713.81 sec.
+    Max Memory :       152 MB
+    Max Swap   :       391 MB
+
+    Max Processes  :         3
+    Max Threads    :         6
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 2 processors: 858.661800 s
+Total work = 1716.661948 s
+Total work (accumulated) = 1264.232066 s
+Span = 696.471000 ms
+Parallelism = 1815.196995
+
+BENCH: 3600,2
+Sender: LSF System <hpcadmin@node12>
+Subject: Job 23058: <./multiply --stats 1 --nproc 1 3000 1> Done
+
+Job <./multiply --stats 1 --nproc 1 3000 1> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node12>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:40 2014
+Results reported at Fri May  9 06:36:55 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 1 3000 1
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1631.58 sec.
+    Max Memory :       104 MB
+    Max Swap   :       261 MB
+
+    Max Processes  :         3
+    Max Threads    :         5
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 1 processor: 1634.432131 s
+Total work = 1634.431569 s
+Total work (accumulated) = 1195.525515 s
+Span = 462.834000 ms
+Parallelism = 2583.054648
+
+BENCH: 3000,1
+Sender: LSF System <hpcadmin@node12>
+Subject: Job 23057: <./multiply --stats 1 --nproc 1 2400 1> Done
+
+Job <./multiply --stats 1 --nproc 1 2400 1> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node12>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:40 2014
+Results reported at Fri May  9 06:37:36 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 1 2400 1
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1672.51 sec.
+    Max Memory :        67 MB
+    Max Swap   :       261 MB
+
+    Max Processes  :         3
+    Max Threads    :         5
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 1 processor: 1675.827659 s
+Total work = 1675.826779 s
+Total work (accumulated) = 1025.201260 s
+Span = 325.773000 ms
+Parallelism = 3146.980443
+
+BENCH: 2400,1
+Sender: LSF System <hpcadmin@node12>
+Subject: Job 23059: <./multiply --stats 1 --nproc 1 3600 1> Done
+
+Job <./multiply --stats 1 --nproc 1 3600 1> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node12>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 5/Inplace> was used as the working directory.
+Started at Fri May  9 06:09:40 2014
+Results reported at Fri May  9 06:37:38 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./multiply --stats 1 --nproc 1 3600 1
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1675.47 sec.
+    Max Memory :       150 MB
+    Max Swap   :       325 MB
+
+    Max Processes  :         3
+    Max Threads    :         5
+
+The output (if any) follows:
+
+
+RUNTIME SYSTEM STATISTICS:
+
+Wall-clock running time on 1 processor: 1678.231560 s
+Total work = 1678.230600 s
+Total work (accumulated) = 1135.493004 s
+Span = 650.161000 ms
+Parallelism = 1746.479724
+
+BENCH: 3600,1

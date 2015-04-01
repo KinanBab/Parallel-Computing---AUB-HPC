@@ -1,0 +1,56 @@
+Sender: LSF System <hpcadmin@node03>
+Subject: Job 7041: </gpfs1/openmpi/bin/mpirun ./bench 456 1312> Done
+
+Job </gpfs1/openmpi/bin/mpirun ./bench 456 1312> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node03>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/MPI> was used as the working directory.
+Started at Sun Feb 23 13:28:10 2014
+Results reported at Sun Feb 23 13:28:25 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/gpfs1/openmpi/bin/mpirun ./bench 456 1312
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      1.08 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+--------------------------------------------------------------------------
+WARNING: It appears that your OpenFabrics subsystem is configured to only
+allow registering part of your physical memory.  This can cause MPI jobs to
+run with erratic performance, hang, and/or crash.
+
+This may be caused by your OpenFabrics vendor limiting the amount of
+physical memory that can be registered.  You should investigate the
+relevant Linux kernel module parameters that control how much physical
+memory can be registered, and increase them to allow registering all
+physical memory on your machine.
+
+See this Open MPI FAQ item for more information on these Linux kernel module
+parameters:
+
+    http://www.open-mpi.org/faq/?category=openfabrics#ib-locked-pages
+
+  Local host:              node03
+  Registerable memory:     32768 MiB
+  Total memory:            65508 MiB
+
+Your MPI job will continue, but may be behave poorly and/or hang.
+--------------------------------------------------------------------------
+The bottom line for this BSP computer is:
+p= 4, maxh= 456, maxn= 1312 r= 472.027 Mflop/s, g= 1.2, l= 1965.7
+[node03:18246] 3 more processes have sent help message help-mpi-btl-openib.txt / reg mem limit low
+[node03:18246] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages

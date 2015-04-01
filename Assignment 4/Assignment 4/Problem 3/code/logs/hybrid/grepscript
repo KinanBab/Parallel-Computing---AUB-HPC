@@ -1,0 +1,9 @@
+#!/bin/bash
+
+for i in 1 2 4 6 8 12 16
+do
+	for j in 1 2 4
+	do
+		grep Realtime hybrid${i}_${j}.log >> out${i}_${j}.log
+	done
+done

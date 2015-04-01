@@ -1,0 +1,11 @@
+/gpfs1/openmpi/bin/mpirun ./product 500000
+This took only 0.007081 seconds.
+--
+/gpfs1/openmpi/bin/mpirun ./product 500000
+This took only 0.002555 seconds.
+--
+/gpfs1/openmpi/bin/mpirun ./product 500000
+This took only 0.002606 seconds.
+--
+/gpfs1/openmpi/bin/mpirun ./product 500000
+This took only 0.056526 seconds.

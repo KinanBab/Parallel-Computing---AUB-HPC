@@ -1,0 +1,466 @@
+Sender: LSF System <hpcadmin@node11>
+Subject: Job 22102: <./fibonacci.o 10 12 15> Exited
+
+Job <./fibonacci.o 10 12 15> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node11>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 2> was used as the working directory.
+Started at Thu Apr 24 15:29:00 2014
+Results reported at Thu Apr 24 15:29:00 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./fibonacci.o 10 12 15
+------------------------------------------------------------
+
+Exited with exit code 50.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         2 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000496,10,12,15,kinan
+Fibonacci Number 10 is: 55Sender: LSF System <hpcadmin@node03>
+Subject: Job 22099: <./fibonacci.o 10 8 15> Exited
+
+Job <./fibonacci.o 10 8 15> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node03>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 2> was used as the working directory.
+Started at Thu Apr 24 15:29:00 2014
+Results reported at Thu Apr 24 15:29:00 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./fibonacci.o 10 8 15
+------------------------------------------------------------
+
+Exited with exit code 49.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000435,10,8,15,kinan
+Fibonacci Number 10 is: 55Sender: LSF System <hpcadmin@node04>
+Subject: Job 22105: <./fibonacci.o 25 1 15> Exited
+
+Job <./fibonacci.o 25 1 15> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node04>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 2> was used as the working directory.
+Started at Thu Apr 24 15:29:00 2014
+Results reported at Thu Apr 24 15:29:00 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./fibonacci.o 25 1 15
+------------------------------------------------------------
+
+Exited with exit code 52.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.002582,25,1,15,kinan
+Fibonacci Number 25 is: 75025Sender: LSF System <hpcadmin@node02>
+Subject: Job 22093: <./fibonacci.o 10 2 15> Exited
+
+Job <./fibonacci.o 10 2 15> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 2> was used as the working directory.
+Started at Thu Apr 24 15:29:00 2014
+Results reported at Thu Apr 24 15:29:00 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./fibonacci.o 10 2 15
+------------------------------------------------------------
+
+Exited with exit code 49.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000191,10,2,15,kinan
+Fibonacci Number 10 is: 55Sender: LSF System <hpcadmin@node01>
+Subject: Job 22096: <./fibonacci.o 10 4 15> Exited
+
+Job <./fibonacci.o 10 4 15> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 2> was used as the working directory.
+Started at Thu Apr 24 15:29:00 2014
+Results reported at Thu Apr 24 15:29:00 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./fibonacci.o 10 4 15
+------------------------------------------------------------
+
+Exited with exit code 49.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000260,10,4,15,kinan
+Fibonacci Number 10 is: 55Sender: LSF System <hpcadmin@node02>
+Subject: Job 22090: <./fibonacci.o 10 1 15> Exited
+
+Job <./fibonacci.o 10 1 15> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 2> was used as the working directory.
+Started at Thu Apr 24 15:29:00 2014
+Results reported at Thu Apr 24 15:29:00 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./fibonacci.o 10 1 15
+------------------------------------------------------------
+
+Exited with exit code 49.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000102,10,1,15,kinan
+Fibonacci Number 10 is: 55Sender: LSF System <hpcadmin@node01>
+Subject: Job 22111: <./fibonacci.o 25 4 15> Exited
+
+Job <./fibonacci.o 25 4 15> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 2> was used as the working directory.
+Started at Thu Apr 24 15:29:01 2014
+Results reported at Thu Apr 24 15:29:03 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./fibonacci.o 25 4 15
+------------------------------------------------------------
+
+Exited with exit code 52.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000953,25,4,15,kinan
+Fibonacci Number 25 is: 75025Sender: LSF System <hpcadmin@node03>
+Subject: Job 22114: <./fibonacci.o 25 8 15> Exited
+
+Job <./fibonacci.o 25 8 15> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node03>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 2> was used as the working directory.
+Started at Thu Apr 24 15:29:01 2014
+Results reported at Thu Apr 24 15:29:03 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./fibonacci.o 25 8 15
+------------------------------------------------------------
+
+Exited with exit code 52.
+
+Resource usage summary:
+
+    CPU time   :      0.02 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.001075,25,8,15,kinan
+Fibonacci Number 25 is: 75025Sender: LSF System <hpcadmin@node11>
+Subject: Job 22117: <./fibonacci.o 25 12 15> Exited
+
+Job <./fibonacci.o 25 12 15> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node11>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 2> was used as the working directory.
+Started at Thu Apr 24 15:29:01 2014
+Results reported at Thu Apr 24 15:29:03 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./fibonacci.o 25 12 15
+------------------------------------------------------------
+
+Exited with exit code 53.
+
+Resource usage summary:
+
+    CPU time   :      0.11 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.010752,25,12,15,kinan
+Fibonacci Number 25 is: 75025Sender: LSF System <hpcadmin@node02>
+Subject: Job 22108: <./fibonacci.o 25 2 15> Exited
+
+Job <./fibonacci.o 25 2 15> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 2> was used as the working directory.
+Started at Thu Apr 24 15:29:01 2014
+Results reported at Thu Apr 24 15:29:03 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./fibonacci.o 25 2 15
+------------------------------------------------------------
+
+Exited with exit code 52.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.001760,25,2,15,kinan
+Fibonacci Number 25 is: 75025Sender: LSF System <hpcadmin@node13>
+Subject: Job 22126: <./fibonacci.o 50 4 15> Exited
+
+Job <./fibonacci.o 50 4 15> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node13>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 2> was used as the working directory.
+Started at Thu Apr 24 15:29:01 2014
+Results reported at Thu Apr 24 15:30:24 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./fibonacci.o 50 4 15
+------------------------------------------------------------
+
+Exited with exit code 58.
+
+Resource usage summary:
+
+    CPU time   :    179.31 sec.
+    Max Memory :         1 MB
+    Max Swap   :       328 MB
+
+    Max Processes  :         3
+    Max Threads    :         7
+
+The output (if any) follows:
+
+82.780193,50,4,15,kinan
+Fibonacci Number 50 is: -298632863Sender: LSF System <hpcadmin@node15>
+Subject: Job 22129: <./fibonacci.o 50 8 15> Exited
+
+Job <./fibonacci.o 50 8 15> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node15>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 2> was used as the working directory.
+Started at Thu Apr 24 15:29:01 2014
+Results reported at Thu Apr 24 15:30:34 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./fibonacci.o 50 8 15
+------------------------------------------------------------
+
+Exited with exit code 58.
+
+Resource usage summary:
+
+    CPU time   :    425.90 sec.
+    Max Memory :         1 MB
+    Max Swap   :       592 MB
+
+    Max Processes  :         3
+    Max Threads    :        11
+
+The output (if any) follows:
+
+93.128958,50,8,15,kinan
+Fibonacci Number 50 is: -298632863Sender: LSF System <hpcadmin@node08>
+Subject: Job 22123: <./fibonacci.o 50 2 15> Exited
+
+Job <./fibonacci.o 50 2 15> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node08>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 2> was used as the working directory.
+Started at Thu Apr 24 15:29:01 2014
+Results reported at Thu Apr 24 15:30:51 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./fibonacci.o 50 2 15
+------------------------------------------------------------
+
+Exited with exit code 59.
+
+Resource usage summary:
+
+    CPU time   :    178.31 sec.
+    Max Memory :         1 MB
+    Max Swap   :       196 MB
+
+    Max Processes  :         3
+    Max Threads    :         5
+
+The output (if any) follows:
+
+107.821717,50,2,15,kinan
+Fibonacci Number 50 is: -298632863Sender: LSF System <hpcadmin@node07>
+Subject: Job 22132: <./fibonacci.o 50 12 15> Exited
+
+Job <./fibonacci.o 50 12 15> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node07>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 2> was used as the working directory.
+Started at Thu Apr 24 15:29:01 2014
+Results reported at Thu Apr 24 15:31:21 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./fibonacci.o 50 12 15
+------------------------------------------------------------
+
+Exited with exit code 60.
+
+Resource usage summary:
+
+    CPU time   :    925.97 sec.
+    Max Memory :         1 MB
+    Max Swap   :       856 MB
+
+    Max Processes  :         3
+    Max Threads    :        15
+
+The output (if any) follows:
+
+139.521700,50,12,15,kinan
+Fibonacci Number 50 is: -298632863Sender: LSF System <hpcadmin@node01>
+Subject: Job 22120: <./fibonacci.o 50 1 15> Exited
+
+Job <./fibonacci.o 50 1 15> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 2> was used as the working directory.
+Started at Thu Apr 24 15:29:01 2014
+Results reported at Thu Apr 24 15:31:39 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./fibonacci.o 50 1 15
+------------------------------------------------------------
+
+Exited with exit code 59.
+
+Resource usage summary:
+
+    CPU time   :    155.73 sec.
+    Max Memory :         1 MB
+    Max Swap   :       130 MB
+
+    Max Processes  :         3
+    Max Threads    :         4
+
+The output (if any) follows:
+
+155.717745,50,1,15,kinan
+Fibonacci Number 50 is: -298632863

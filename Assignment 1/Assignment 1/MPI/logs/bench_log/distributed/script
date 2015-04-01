@@ -1,0 +1,5 @@
+#!/bin/bash
+for i in {1..421}
+do
+	grep maxh sublogs/dlog${i}.log >> dlog.log
+done

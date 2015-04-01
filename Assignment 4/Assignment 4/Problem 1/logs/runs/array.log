@@ -1,0 +1,620 @@
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 21034: <./pi-array.o 10000 2> Exited
+
+Job <./pi-array.o 10000 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:37 2014
+Results reported at Tue Apr 22 10:44:37 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 10000 2
+------------------------------------------------------------
+
+Exited with exit code 23.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000464,10000,2,kinan
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 21031: <./pi-array.o 10000 1> Exited
+
+Job <./pi-array.o 10000 1> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:37 2014
+Results reported at Tue Apr 22 10:44:37 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 10000 1
+------------------------------------------------------------
+
+Exited with exit code 23.
+
+Resource usage summary:
+
+    CPU time   :      0.02 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000919,10000,1,kinan
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 21037: <./pi-array.o 10000 4> Exited
+
+Job <./pi-array.o 10000 4> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:37 2014
+Results reported at Tue Apr 22 10:44:38 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 10000 4
+------------------------------------------------------------
+
+Exited with exit code 23.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000521,10000,4,kinan
+Sender: LSF System <hpcadmin@node06>
+Subject: Job 21043: <./pi-array.o 10000 12> Exited
+
+Job <./pi-array.o 10000 12> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node06>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:38 2014
+Results reported at Tue Apr 22 10:44:39 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 10000 12
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.02 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000699,10000,12,kinan
+Sender: LSF System <hpcadmin@node10>
+Subject: Job 21055: <./pi-array.o 100000 8> Exited
+
+Job <./pi-array.o 100000 8> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node10>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:39 2014
+Results reported at Tue Apr 22 10:44:39 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 100000 8
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.03 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.002364,100000,8,kinan
+Sender: LSF System <hpcadmin@node14>
+Subject: Job 21070: <./pi-array.o 200000 8> Exited
+
+Job <./pi-array.o 200000 8> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node14>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:41 2014
+Results reported at Tue Apr 22 10:44:41 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 200000 8
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.04 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.004171,200000,8,kinan
+Sender: LSF System <hpcadmin@node13>
+Subject: Job 21073: <./pi-array.o 200000 12> Exited
+
+Job <./pi-array.o 200000 12> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node13>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:41 2014
+Results reported at Tue Apr 22 10:44:41 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 200000 12
+------------------------------------------------------------
+
+Exited with exit code 25.
+
+Resource usage summary:
+
+    CPU time   :      0.04 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.002968,200000,12,kinan
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 21040: <./pi-array.o 10000 8> Exited
+
+Job <./pi-array.o 10000 8> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:38 2014
+Results reported at Tue Apr 22 10:44:42 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 10000 8
+------------------------------------------------------------
+
+Exited with exit code 23.
+
+Resource usage summary:
+
+    CPU time   :      0.01 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.000571,10000,8,kinan
+Sender: LSF System <hpcadmin@node09>
+Subject: Job 21058: <./pi-array.o 100000 12> Exited
+
+Job <./pi-array.o 100000 12> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node09>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:40 2014
+Results reported at Tue Apr 22 10:44:42 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 100000 12
+------------------------------------------------------------
+
+Exited with exit code 25.
+
+Resource usage summary:
+
+    CPU time   :      0.03 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.002301,100000,12,kinan
+Sender: LSF System <hpcadmin@node09>
+Subject: Job 21064: <./pi-array.o 200000 2> Exited
+
+Job <./pi-array.o 200000 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node09>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:40 2014
+Results reported at Tue Apr 22 10:44:42 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 200000 2
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.02 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.003811,200000,2,kinan
+Sender: LSF System <hpcadmin@node14>
+Subject: Job 21082: <./pi-array.o 500000 4> Exited
+
+Job <./pi-array.o 500000 4> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node14>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:42 2014
+Results reported at Tue Apr 22 10:44:44 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 500000 4
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.05 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.008192,500000,4,kinan
+Sender: LSF System <hpcadmin@node15>
+Subject: Job 21085: <./pi-array.o 500000 8> Exited
+
+Job <./pi-array.o 500000 8> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node15>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:42 2014
+Results reported at Tue Apr 22 10:44:44 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 500000 8
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.06 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.007015,500000,8,kinan
+Sender: LSF System <hpcadmin@node13>
+Subject: Job 21088: <./pi-array.o 500000 12> Exited
+
+Job <./pi-array.o 500000 12> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <12*node13>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:43 2014
+Results reported at Tue Apr 22 10:44:44 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 500000 12
+------------------------------------------------------------
+
+Exited with exit code 25.
+
+Resource usage summary:
+
+    CPU time   :      0.08 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.005973,500000,12,kinan
+Sender: LSF System <hpcadmin@node02>
+Subject: Job 21079: <./pi-array.o 500000 2> Exited
+
+Job <./pi-array.o 500000 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node02>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:42 2014
+Results reported at Tue Apr 22 10:44:45 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 500000 2
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.04 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.010289,500000,2,kinan
+Sender: LSF System <hpcadmin@node11>
+Subject: Job 21067: <./pi-array.o 200000 4> Exited
+
+Job <./pi-array.o 200000 4> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node11>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:42 2014
+Results reported at Tue Apr 22 10:44:45 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 200000 4
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.03 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.004382,200000,4,kinan
+Sender: LSF System <hpcadmin@node03>
+Subject: Job 21049: <./pi-array.o 100000 2> Exited
+
+Job <./pi-array.o 100000 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node03>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:39 2014
+Results reported at Tue Apr 22 10:44:50 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 100000 2
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.02 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.002270,100000,2,kinan
+Sender: LSF System <hpcadmin@node10>
+Subject: Job 21076: <./pi-array.o 500000 1> Exited
+
+Job <./pi-array.o 500000 1> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node10>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:42 2014
+Results reported at Tue Apr 22 10:44:51 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 500000 1
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.03 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.015561,500000,1,kinan
+Sender: LSF System <hpcadmin@node06>
+Subject: Job 21052: <./pi-array.o 100000 4> Exited
+
+Job <./pi-array.o 100000 4> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <4*node06>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:39 2014
+Results reported at Tue Apr 22 10:44:53 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 100000 4
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.02 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.002077,100000,4,kinan
+Sender: LSF System <hpcadmin@node06>
+Subject: Job 21061: <./pi-array.o 200000 1> Exited
+
+Job <./pi-array.o 200000 1> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node06>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:41 2014
+Results reported at Tue Apr 22 10:44:53 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 200000 1
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.02 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.008075,200000,1,kinan
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 21046: <./pi-array.o 100000 1> Exited
+
+Job <./pi-array.o 100000 1> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 4/Problem 1> was used as the working directory.
+Started at Tue Apr 22 10:44:38 2014
+Results reported at Tue Apr 22 10:44:59 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./pi-array.o 100000 1
+------------------------------------------------------------
+
+Exited with exit code 24.
+
+Resource usage summary:
+
+    CPU time   :      0.02 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+0.004134,100000,1,kinan

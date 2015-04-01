@@ -1,0 +1,6 @@
+#!/bin/bash
+for n in {100000..1000000..50000}
+do
+	echo "N="${n} >> time.log 
+
+done

@@ -1,0 +1,5 @@
+Number of processors: 8 	 Input Size: 10000 	 Time Taken: 0.00080316
+Number of processors: 8 	 Input Size: 20000 	 Time Taken: 0.00409625
+Number of processors: 8 	 Input Size: 30000 	 Time Taken: 0.01938784
+Number of processors: 8 	 Input Size: 40000 	 Time Taken: 0.01886147
+Number of processors: 8 	 Input Size: 50000 	 Time Taken: 0.00388014

@@ -1,0 +1,90 @@
+Sender: LSF System <hpcadmin@node06>
+Subject: Job 5250: <./bench 2> Done
+
+Job <./bench 2> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <2*node06>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sat Feb 22 17:15:33 2014
+Results reported at Sat Feb 22 17:22:26 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./bench 2
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    255.64 sec.
+    Max Memory :         1 MB
+    Max Swap   :       201 MB
+
+    Max Processes  :         3
+    Max Threads    :         5
+
+The output (if any) follows:
+
+p= 2, h= 256, n= 512, r= 326.278 Mflop/s, g= 185.0, l= 12398.1
+p= 2, h= 356, n= 512, r= 369.961 Mflop/s, g= 236.5, l= 10351.8
+p= 2, h= 456, n= 512, r= 363.644 Mflop/s, g= 226.2, l= 9736.0
+p= 2, h= 556, n= 512, r= 372.196 Mflop/s, g= 228.1, l= 9408.7
+p= 2, h= 656, n= 512, r= 370.451 Mflop/s, g= 234.8, l= 10945.8
+p= 2, h= 756, n= 512, r= 373.128 Mflop/s, g= 225.1, l= 12199.6
+p= 2, h= 256, n= 612, r= 370.796 Mflop/s, g= 242.1, l= 10250.5
+p= 2, h= 356, n= 612, r= 377.273 Mflop/s, g= 240.4, l= 10051.3
+p= 2, h= 456, n= 612, r= 375.343 Mflop/s, g= 230.1, l= 10112.7
+p= 2, h= 556, n= 612, r= 388.410 Mflop/s, g= 252.3, l= 10631.9
+p= 2, h= 656, n= 612, r= 391.303 Mflop/s, g= 236.8, l= 11328.2
+p= 2, h= 756, n= 612, r= 380.425 Mflop/s, g= 233.0, l= 13579.6
+p= 2, h= 256, n= 712, r= 380.094 Mflop/s, g= 243.3, l= 9782.0
+p= 2, h= 356, n= 712, r= 385.041 Mflop/s, g= 241.2, l= 10452.0
+p= 2, h= 456, n= 712, r= 380.967 Mflop/s, g= 246.6, l= 10648.5
+p= 2, h= 556, n= 712, r= 370.186 Mflop/s, g= 226.5, l= 9420.1
+p= 2, h= 656, n= 712, r= 374.900 Mflop/s, g= 84.0, l= 35173.2
+p= 2, h= 756, n= 712, r= 210.361 Mflop/s, g= 60.0, l= 4825.0
+p= 2, h= 256, n= 812, r= 210.111 Mflop/s, g= 88.3, l= 3110.8
+p= 2, h= 356, n= 812, r= 187.334 Mflop/s, g= 68.2, l= 10164.0
+p= 2, h= 456, n= 812, r= 184.805 Mflop/s, g= 55.3, l= 3585.3
+p= 2, h= 556, n= 812, r= 181.870 Mflop/s, g= 43.9, l= 9356.6
+p= 2, h= 656, n= 812, r= 196.106 Mflop/s, g= 49.8, l= 6053.1
+p= 2, h= 756, n= 812, r= 182.400 Mflop/s, g= 41.5, l= 9453.3
+p= 2, h= 256, n= 912, r= 183.417 Mflop/s, g= 60.5, l= 4693.5
+p= 2, h= 356, n= 912, r= 209.435 Mflop/s, g= 85.0, l= 4174.1
+p= 2, h= 456, n= 912, r= 207.921 Mflop/s, g= 64.2, l= 8100.7
+p= 2, h= 556, n= 912, r= 196.098 Mflop/s, g= 49.2, l= 9932.1
+p= 2, h= 656, n= 912, r= 195.365 Mflop/s, g= 50.4, l= 5751.5
+p= 2, h= 756, n= 912, r= 192.066 Mflop/s, g= 38.5, l= 9067.8
+p= 2, h= 256, n= 1012, r= 188.434 Mflop/s, g= 49.8, l= 4266.3
+p= 2, h= 356, n= 1012, r= 209.326 Mflop/s, g= 57.3, l= 7065.6
+p= 2, h= 456, n= 1012, r= 194.575 Mflop/s, g= 68.1, l= 4818.1
+p= 2, h= 556, n= 1012, r= 183.652 Mflop/s, g= 58.0, l= 2470.4
+p= 2, h= 656, n= 1012, r= 185.406 Mflop/s, g= 41.7, l= 8378.9
+p= 2, h= 756, n= 1012, r= 196.217 Mflop/s, g= 49.8, l= 8682.9
+p= 2, h= 256, n= 1112, r= 195.550 Mflop/s, g= 39.6, l= 3844.0
+p= 2, h= 356, n= 1112, r= 195.918 Mflop/s, g= 78.7, l= 2379.9
+p= 2, h= 456, n= 1112, r= 191.354 Mflop/s, g= 78.3, l= 1825.5
+p= 2, h= 556, n= 1112, r= 183.775 Mflop/s, g= 48.0, l= 6669.9
+p= 2, h= 656, n= 1112, r= 197.098 Mflop/s, g= 49.3, l= 6198.0
+p= 2, h= 756, n= 1112, r= 195.279 Mflop/s, g= 46.9, l= 8446.6
+p= 2, h= 256, n= 1212, r= 195.441 Mflop/s, g= 107.4, l= -1710.4
+p= 2, h= 356, n= 1212, r= 181.725 Mflop/s, g= 58.9, l= 4489.7
+p= 2, h= 456, n= 1212, r= 191.264 Mflop/s, g= 40.9, l= 9028.0
+p= 2, h= 556, n= 1212, r= 196.303 Mflop/s, g= 41.6, l= 13248.7
+p= 2, h= 656, n= 1212, r= 194.952 Mflop/s, g= 46.9, l= 7760.0
+p= 2, h= 756, n= 1212, r= 195.279 Mflop/s, g= 43.4, l= 10129.2
+p= 2, h= 256, n= 1312, r= 195.357 Mflop/s, g= 62.5, l= 6905.2
+p= 2, h= 356, n= 1312, r= 194.645 Mflop/s, g= 18.0, l= 15319.2
+p= 2, h= 456, n= 1312, r= 194.634 Mflop/s, g= 58.9, l= 5280.9
+p= 2, h= 556, n= 1312, r= 188.235 Mflop/s, g= 42.3, l= 9446.4
+p= 2, h= 656, n= 1312, r= 192.210 Mflop/s, g= 37.7, l= 11450.2
+p= 2, h= 756, n= 1312, r= 195.884 Mflop/s, g= 39.0, l= 14201.0
+p= 2, h= 256, n= 1412, r= 195.406 Mflop/s, g= 46.6, l= 7121.1
+p= 2, h= 356, n= 1412, r= 194.604 Mflop/s, g= 46.8, l= 8636.0
+p= 2, h= 456, n= 1412, r= 189.936 Mflop/s, g= 73.0, l= 2925.2
+p= 2, h= 556, n= 1412, r= 195.029 Mflop/s, g= 38.2, l= 12744.3
+p= 2, h= 656, n= 1412, r= 183.314 Mflop/s, g= 48.4, l= 5727.5
+p= 2, h= 756, n= 1412, r= 194.373 Mflop/s, g= 42.8, l= 9521.3

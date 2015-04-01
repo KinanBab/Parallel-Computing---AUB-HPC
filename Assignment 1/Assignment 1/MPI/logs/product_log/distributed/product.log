@@ -1,0 +1,159 @@
+P=1
+/gpfs1/openmpi/bin/mpirun ./product 950000
+This took only 0.009164 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 900000
+This took only 0.009649 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 1000000
+This took only 0.009639 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 150000
+This took only 0.001446 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 200000
+This took only 0.003891 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 100000
+This took only 0.000969 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 350000
+This took only 0.006103 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 850000
+This took only 0.011163 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 700000
+This took only 0.010215 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 600000
+This took only 0.011213 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 250000
+This took only 0.002415 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 500000
+This took only 0.007081 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 800000
+This took only 0.007979 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 750000
+This took only 0.008788 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 650000
+This took only 0.006475 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 550000
+This took only 0.007448 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 450000
+This took only 0.006087 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 400000
+This took only 0.003950 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 300000
+This took only 0.004066 seconds.
+P=2
+/gpfs1/openmpi/bin/mpirun ./product 1000000
+This took only 0.009117 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 950000
+This took only 0.006986 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 900000
+This took only 0.006878 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 250000
+This took only 0.002620 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 300000
+This took only 0.003132 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 350000
+This took only 0.003594 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 200000
+This took only 0.002163 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 400000
+This took only 0.004093 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 150000
+This took only 0.001720 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 100000
+This took only 0.000983 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 650000
+This took only 0.003453 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 750000
+This took only 0.007157 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 700000
+This took only 0.003839 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 600000
+This took only 0.006083 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 550000
+This took only 0.005642 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 500000
+This took only 0.002555 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 450000
+This took only 0.003260 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 800000
+This took only 0.005241 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 850000
+This took only 0.004557 seconds.
+P=4
+/gpfs1/openmpi/bin/mpirun ./product 450000
+This took only 0.002400 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 150000
+This took only 0.000864 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 400000
+This took only 0.002107 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 350000
+This took only 0.001951 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 300000
+This took only 0.001653 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 250000
+This took only 0.001341 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 200000
+This took only 0.001114 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 100000
+This took only 0.000665 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 600000
+This took only 0.003084 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 700000
+This took only 0.003584 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 650000
+This took only 0.003391 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 550000
+This took only 0.002892 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 500000
+This took only 0.002606 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 800000
+This took only 0.004153 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 750000
+This took only 0.003883 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 850000
+This took only 0.004422 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 1000000
+This took only 0.005124 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 950000
+This took only 0.004919 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 900000
+This took only 0.004613 seconds.
+P=6
+/gpfs1/openmpi/bin/mpirun ./product 150000
+This took only 0.032410 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 100000
+This took only 0.036525 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 600000
+This took only 0.044267 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 550000
+This took only 0.052262 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 500000
+This took only 0.056526 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 450000
+This took only 0.056658 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 400000
+This took only 0.042204 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 350000
+This took only 0.044081 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 300000
+This took only 0.046134 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 250000
+This took only 0.046071 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 200000
+This took only 0.060673 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 650000
+This took only 0.037632 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 700000
+This took only 0.032435 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 850000
+This took only 0.040505 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 800000
+This took only 0.040347 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 950000
+This took only 0.041429 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 900000
+This took only 0.036882 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 750000
+This took only 0.039520 seconds.
+/gpfs1/openmpi/bin/mpirun ./product 1000000
+This took only 0.036481 seconds.
+P=8
+P=12
+P=16

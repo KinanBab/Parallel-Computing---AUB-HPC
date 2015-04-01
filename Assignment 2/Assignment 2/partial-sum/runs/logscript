@@ -1,0 +1,5 @@
+#!/bin/bash
+for SIZE in {10000..50000..10000}
+do
+	grep Taken log${SIZE}.log | grep Time >> ../benchmark-summary.log 
+done

@@ -1,0 +1,5 @@
+#!/bin/bash
+for I in {7435..7734}
+do
+	bkill ${I}
+done

@@ -1,0 +1,5 @@
+#!/bin/bash
+for N in {1000..5000..1000}
+do
+	grep time\ taken: matrix${N}.log >> ../benchmark-summary.txt
+done

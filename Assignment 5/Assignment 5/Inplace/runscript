@@ -1,0 +1,8 @@
+#!/bin/bash
+for THREADS in 1 2 4 8 12 16
+do
+	for N in {600..3600..600}
+	do
+		make run THREADS=${THREADS} N=${N}
+	done
+done

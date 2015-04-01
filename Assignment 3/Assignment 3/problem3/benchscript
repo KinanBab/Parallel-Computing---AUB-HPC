@@ -1,0 +1,5 @@
+#!/bin/bash
+for M in {1000..5000..1000}
+do
+	make M=${M}
+done

@@ -1,0 +1,106 @@
+/********************************/
+/*******Kinan Dak Al Bab*********/
+/***********CMPS 297M************/
+/**********Assignment 5**********/
+/********************************/
+
+#include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
+#define MAXVALUE 5
+
+int** A; //C = A . B
+int** B;
+int** C;
+int** T; //Temporary Matrix
+
+void printMatrix(int** M, int n) { //Prints Matrix
+	int i, j;
+	
+	for(i = 0; i < n; i++) {
+		for(j = 0; j < n; j++)  {
+			printf("%d \t", M[i][j]);
+		}
+		
+		printf("\n");
+	}
+	
+	printf("\n");
+}
+
+cilk void add(int ci, int cj, int n) { //parallel addition function
+	if(n == 1) {
+		C[ci][cj] = C[ci][cj] + T[ci][cj];
+	} else {
+		int k = n/2;
+		spawn add(ci, cj, k); //ADD(C11, T11, n/2)
+		spawn add(ci, cj+k, k); //ADD(C12, T12, n/2)
+		spawn add(ci+k, cj, k); //ADD(C21, T21, n/2)
+		spawn add(ci+k, cj+k, k); //ADD(C22, T22, n/2)
+		sync;
+	}
+}
+
+cilk void mult(int ai, int aj, int bi, int bj, int ci, int cj, int n, int t) { //parallel multiplication function
+	if(n == 1) {
+		if(t == 0) {
+			C[ci][cj] = C[ci][cj] + A[ai][aj] * B[bi][bj];
+		} else {
+			T[ci][cj] = A[ai][aj] * B[bi][bj];
+		}
+	} else {
+		int k = n/2;
+		spawn mult(ai, aj, bi, bj, ci, cj, k, 0); //MULT(C11, A11, B11, n/2)
+		spawn mult(ai, aj, bi, bj+k, ci, cj+k, k, 0); //MULT(C12, A11, B12, n/2)
+		spawn mult(ai+k, aj, bi, bj, ci+k, cj, k, 0); //MULT(C21, A21, B11, n/2)
+		spawn mult(ai+k, aj, bi, bj+k, ci+k, cj+k, k, 0); //MULT(C22, A21, B12, n/2)
+		spawn mult(ai, aj+k, bi+k, bj, ci, cj, k, 1); //MULT(T11, A12, B21, n/2)
+		spawn mult(ai, aj+k, bi+k, bj+k, ci, cj+k, k, 1); //MULT(T12, A12, B22, n/2)
+		spawn mult(ai+k, aj+k, bi+k, bj, ci+k, cj, k, 1); //MULT(T21, A22, B21, n/2)
+		spawn mult(ai+k, aj+k, bi+k, bj+k, ci+k, cj+k, k, 1); //MULT(T22, A22, B22, n/2)
+		sync;
+		
+		spawn add(ci, cj, n); //ADD(C, T, n)
+	}
+}
+
+cilk int main(int argc, char *argv[]) {
+	int n; //Dimension of the matrix
+	int p; //Number of threads
+	int i, j; //loop counters
+	
+	sscanf(argv[1], "%d", &n);	//read n from command line arguments
+	sscanf(argv[2], "%d", &p);	//read p from command line arguments
+
+	A = (int**) malloc(sizeof(int*) * n);
+	B = (int**) malloc(sizeof(int*) * n);
+	C = (int**) malloc(sizeof(int*) * n);
+	T = (int**) malloc(sizeof(int*) * n);
+	
+	for(i = 0; i < n; i++) { //Fill Matrices with random data
+		for(j = 0; j < n; j++)  {
+			if(j == 0) {
+				A[i] = (int*) malloc(sizeof(int) * n);
+				B[i] = (int*) malloc(sizeof(int) * n);
+				C[i] = (int*) malloc(sizeof(int) * n);
+				T[i] = (int*) malloc(sizeof(int) * n);
+			}
+			
+			A[i][j] = (rand() % MAXVALUE);
+			B[i][j] = (rand() % MAXVALUE);
+			C[i][j] = 0;
+			T[i][j] = 0;
+		}
+	}
+	
+	spawn mult(0, 0, 0, 0, 0, 0, n, 0); //MULT(C, A, B, n)
+	
+	//printMatrix(A, n); //Print results
+	//printMatrix(B, n);
+	//printMatrix(C, n);
+	
+	printf("\n");
+	printf("BENCH: %d,%d\n", n, p);
+	
+	return(0);
+}

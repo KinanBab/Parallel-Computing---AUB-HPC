@@ -1,0 +1,86 @@
+/********************************/
+/*******Kinan Dak Al Bab*********/
+/***********CMPS 297M************/
+/**********Assignment 5**********/
+/********************************/
+
+#include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
+#define MAXVALUE 5
+
+int** A; //C = A . B
+int** B;
+int** C;
+
+void printMatrix(int** M, int n) { //Prints Matrix
+	int i, j;
+	
+	for(i = 0; i < n; i++) {
+		for(j = 0; j < n; j++)  {
+			printf("%d \t", M[i][j]);
+		}
+		
+		printf("\n");
+	}
+	
+	printf("\n");
+}
+
+cilk void mult_add(int ai, int aj, int bi, int bj, int ci, int cj, int n) { //parallel multiplication and addition function (in place)
+	if(n == 1) {
+		C[ci][cj] = C[ci][cj]  + A[ai][aj] * B[bi][bj];
+	} else {
+		int k = n/2;
+		spawn mult_add(ai, aj, bi, bj, ci, cj, k); //MULT-ADD(C11, A11, B11, n/2)
+		spawn mult_add(ai, aj, bi, bj+k, ci, cj+k, k); //MULT-ADD(C12, A11, B12, n/2)
+		spawn mult_add(ai+k, aj, bi, bj, ci+k, cj, k); //MULT-ADD(C21, A21, B11, n/2)
+		spawn mult_add(ai+k, aj, bi, bj+k, ci+k, cj+k, k); //MULT-ADD(C22, A21, B12, n/2)
+		sync;
+		
+		spawn mult_add(ai, aj+k, bi+k, bj, ci, cj, k); //MULT-ADD(T11, A12, B21, n/2)
+		spawn mult_add(ai, aj+k, bi+k, bj+k, ci, cj+k, k); //MULT-ADD(T12, A12, B22, n/2)
+		spawn mult_add(ai+k, aj+k, bi+k, bj, ci+k, cj, k); //MULT-ADD(T21, A22, B21, n/2)
+		spawn mult_add(ai+k, aj+k, bi+k, bj+k, ci+k, cj+k, k); //MULT-ADD(T22, A22, B22, n/2)
+		sync;
+	}
+}
+
+cilk int main(int argc, char *argv[]) {
+	int n; //Dimension of the matrix
+	int p; //Number of threads
+	int i, j; //loop counters
+	
+	sscanf(argv[1], "%d", &n);	//read n from command line arguments
+	sscanf(argv[2], "%d", &p);	//read p from command line arguments
+
+	A = (int**) malloc(sizeof(int*) * n);
+	B = (int**) malloc(sizeof(int*) * n);
+	C = (int**) malloc(sizeof(int*) * n);
+	
+	for(i = 0; i < n; i++) { //Fill Matrices with random data
+		for(j = 0; j < n; j++)  {
+			if(j == 0) {
+				A[i] = (int*) malloc(sizeof(int) * n);
+				B[i] = (int*) malloc(sizeof(int) * n);
+				C[i] = (int*) malloc(sizeof(int) * n);
+			}
+			
+			A[i][j] = (rand() % MAXVALUE);
+			B[i][j] = (rand() % MAXVALUE);
+			C[i][j] = 0;
+		}
+	}
+	
+	spawn mult_add(0, 0, 0, 0, 0, 0, n); //MULT(C, A, B, n)
+	sync;
+	
+	//printMatrix(A, n); //Print results
+	//printMatrix(B, n);
+	//printMatrix(C, n);
+	
+	printf("\n");
+	printf("BENCH: %d,%d\n", n, p);
+	
+	return(0);
+}

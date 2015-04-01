@@ -1,0 +1,741 @@
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 9043: <./product 8 100000> Done
+
+Job <./product 8 100000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:05 2014
+Results reported at Sun Feb 23 19:46:06 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 100000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.11 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 4: sum of squares up to 100000*100000 is 333338333350000
+Processor 7: sum of squares up to 100000*100000 is 333338333350000
+Processor 0: sum of squares up to 100000*100000 is 333338333350000
+This took only 0.000201 seconds.
+Processor 3: sum of squares up to 100000*100000 is 333338333350000
+Processor 2: sum of squares up to 100000*100000 is 333338333350000
+Processor 5: sum of squares up to 100000*100000 is 333338333350000
+Processor 6: sum of squares up to 100000*100000 is 333338333350000
+Processor 1: sum of squares up to 100000*100000 is 333338333350000
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 9044: <./product 8 150000> Done
+
+Job <./product 8 150000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:05 2014
+Results reported at Sun Feb 23 19:46:06 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 150000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.16 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 6: sum of squares up to 150000*150000 is 1125011250025000
+Processor 5: sum of squares up to 150000*150000 is 1125011250025000
+Processor 7: sum of squares up to 150000*150000 is 1125011250025000
+Processor 3: sum of squares up to 150000*150000 is 1125011250025000
+Processor 4: sum of squares up to 150000*150000 is 1125011250025000
+Processor 2: sum of squares up to 150000*150000 is 1125011250025000
+Processor 0: sum of squares up to 150000*150000 is 1125011250025000
+This took only 0.010121 seconds.
+Processor 1: sum of squares up to 150000*150000 is 1125011250025000
+Sender: LSF System <hpcadmin@node13>
+Subject: Job 9047: <./product 8 300000> Done
+
+Job <./product 8 300000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node13>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:05 2014
+Results reported at Sun Feb 23 19:46:07 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 300000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.05 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 3: sum of squares up to 300000*300000 is 9000045000050000
+Processor 7: sum of squares up to 300000*300000 is 9000045000050000
+Processor 1: sum of squares up to 300000*300000 is 9000045000050000
+Processor 2: sum of squares up to 300000*300000 is 9000045000050000
+Processor 4: sum of squares up to 300000*300000 is 9000045000050000
+Processor 0: sum of squares up to 300000*300000 is 9000045000050000
+This took only 0.000801 seconds.
+Processor 5: sum of squares up to 300000*300000 is 9000045000050000
+Processor 6: sum of squares up to 300000*300000 is 9000045000050000
+Sender: LSF System <hpcadmin@node13>
+Subject: Job 9046: <./product 8 250000> Done
+
+Job <./product 8 250000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node13>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:05 2014
+Results reported at Sun Feb 23 19:46:08 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 250000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.09 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 4: sum of squares up to 250000*250000 is 5208364583375000
+Processor 7: sum of squares up to 250000*250000 is 5208364583375000
+Processor 3: sum of squares up to 250000*250000 is 5208364583375000
+Processor 5: sum of squares up to 250000*250000 is 5208364583375000
+Processor 1: sum of squares up to 250000*250000 is 5208364583375000
+Processor 2: sum of squares up to 250000*250000 is 5208364583375000
+Processor 6: sum of squares up to 250000*250000 is 5208364583375000
+Processor 0: sum of squares up to 250000*250000 is 5208364583375000
+This took only 0.000426 seconds.
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 9050: <./product 8 450000> Done
+
+Job <./product 8 450000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:07 2014
+Results reported at Sun Feb 23 19:46:09 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 450000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.11 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 0: sum of squares up to 450000*450000 is 30375101250075000
+This took only 0.001300 seconds.
+Processor 2: sum of squares up to 450000*450000 is 30375101250075000
+Processor 5: sum of squares up to 450000*450000 is 30375101250075000
+Processor 3: sum of squares up to 450000*450000 is 30375101250075000
+Processor 6: sum of squares up to 450000*450000 is 30375101250075000
+Processor 7: sum of squares up to 450000*450000 is 30375101250075000
+Processor 1: sum of squares up to 450000*450000 is 30375101250075000
+Processor 4: sum of squares up to 450000*450000 is 30375101250075000
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 9049: <./product 8 400000> Done
+
+Job <./product 8 400000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:07 2014
+Results reported at Sun Feb 23 19:46:09 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 400000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.07 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 0: sum of squares up to 400000*400000 is 21333413333400000
+Processor 3: sum of squares up to 400000*400000 is 21333413333400000
+Processor 6: sum of squares up to 400000*400000 is 21333413333400000
+Processor 5: sum of squares up to 400000*400000 is 21333413333400000
+Processor 1: sum of squares up to 400000*400000 is 21333413333400000
+Processor 4: sum of squares up to 400000*400000 is 21333413333400000
+This took only 0.001128 seconds.
+Processor 7: sum of squares up to 400000*400000 is 21333413333400000
+Processor 2: sum of squares up to 400000*400000 is 21333413333400000
+Sender: LSF System <hpcadmin@node13>
+Subject: Job 9054: <./product 8 650000> Done
+
+Job <./product 8 650000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node13>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:08 2014
+Results reported at Sun Feb 23 19:46:10 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 650000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.07 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 0: sum of squares up to 650000*650000 is 91541877916750080
+This took only 0.001476 seconds.
+Processor 2: sum of squares up to 650000*650000 is 91541877916750080
+Processor 7: sum of squares up to 650000*650000 is 91541877916750080
+Processor 1: sum of squares up to 650000*650000 is 91541877916750080
+Processor 3: sum of squares up to 650000*650000 is 91541877916750080
+Processor 6: sum of squares up to 650000*650000 is 91541877916750080
+Processor 4: sum of squares up to 650000*650000 is 91541877916750080
+Processor 5: sum of squares up to 650000*650000 is 91541877916750080
+Sender: LSF System <hpcadmin@node13>
+Subject: Job 9053: <./product 8 600000> Done
+
+Job <./product 8 600000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node13>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:08 2014
+Results reported at Sun Feb 23 19:46:10 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 600000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.08 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 1: sum of squares up to 600000*600000 is 72000180000100000
+Processor 0: sum of squares up to 600000*600000 is 72000180000100000
+This took only 0.000845 seconds.
+Processor 7: sum of squares up to 600000*600000 is 72000180000100000
+Processor 3: sum of squares up to 600000*600000 is 72000180000100000
+Processor 6: sum of squares up to 600000*600000 is 72000180000100000
+Processor 2: sum of squares up to 600000*600000 is 72000180000100000
+Processor 4: sum of squares up to 600000*600000 is 72000180000100000
+Processor 5: sum of squares up to 600000*600000 is 72000180000100000
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 9055: <./product 8 700000> Done
+
+Job <./product 8 700000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:10 2014
+Results reported at Sun Feb 23 19:46:12 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 700000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.09 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 5: sum of squares up to 700000*700000 is 114333578333400080
+Processor 1: sum of squares up to 700000*700000 is 114333578333400080
+Processor 4: sum of squares up to 700000*700000 is 114333578333400080
+Processor 7: sum of squares up to 700000*700000 is 114333578333400080
+Processor 0: sum of squares up to 700000*700000 is 114333578333400080
+This took only 0.001004 seconds.
+Processor 3: sum of squares up to 700000*700000 is 114333578333400080
+Processor 6: sum of squares up to 700000*700000 is 114333578333400080
+Processor 2: sum of squares up to 700000*700000 is 114333578333400080
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 9056: <./product 8 750000> Done
+
+Job <./product 8 750000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:10 2014
+Results reported at Sun Feb 23 19:46:12 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 750000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.12 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 2: sum of squares up to 750000*750000 is 140625281250050080
+Processor 7: sum of squares up to 750000*750000 is 140625281250050080
+Processor 4: sum of squares up to 750000*750000 is 140625281250050080
+Processor 6: sum of squares up to 750000*750000 is 140625281250050080
+Processor 5: sum of squares up to 750000*750000 is 140625281250050080
+Processor 3: sum of squares up to 750000*750000 is 140625281250050080
+Processor 1: sum of squares up to 750000*750000 is 140625281250050080
+Processor 0: sum of squares up to 750000*750000 is 140625281250050080
+This took only 0.010848 seconds.
+Sender: LSF System <hpcadmin@node03>
+Subject: Job 9048: <./product 8 350000> Done
+
+Job <./product 8 350000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node03>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:06 2014
+Results reported at Sun Feb 23 19:46:12 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 350000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.04 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 4: sum of squares up to 350000*350000 is 14291727916725000
+Processor 0: sum of squares up to 350000*350000 is 14291727916725000
+This took only 0.001120 seconds.
+Processor 2: sum of squares up to 350000*350000 is 14291727916725000
+Processor 3: sum of squares up to 350000*350000 is 14291727916725000
+Processor 6: sum of squares up to 350000*350000 is 14291727916725000
+Processor 1: sum of squares up to 350000*350000 is 14291727916725000
+Processor 5: sum of squares up to 350000*350000 is 14291727916725000
+Processor 7: sum of squares up to 350000*350000 is 14291727916725000
+Sender: LSF System <hpcadmin@node03>
+Subject: Job 9051: <./product 8 500000> Done
+
+Job <./product 8 500000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node03>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:09 2014
+Results reported at Sun Feb 23 19:46:12 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 500000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.05 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 3: sum of squares up to 500000*500000 is 41666791666750000
+Processor 1: sum of squares up to 500000*500000 is 41666791666750000
+Processor 2: sum of squares up to 500000*500000 is 41666791666750000
+Processor 7: sum of squares up to 500000*500000 is 41666791666750000
+Processor 5: sum of squares up to 500000*500000 is 41666791666750000
+Processor 0: sum of squares up to 500000*500000 is 41666791666750000
+This took only 0.001617 seconds.
+Processor 4: sum of squares up to 500000*500000 is 41666791666750000
+Processor 6: sum of squares up to 500000*500000 is 41666791666750000
+Sender: LSF System <hpcadmin@node03>
+Subject: Job 9061: <./product 8 1000000> Done
+
+Job <./product 8 1000000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node03>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:13 2014
+Results reported at Sun Feb 23 19:46:15 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 1000000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.06 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 1: sum of squares up to 1000000*1000000 is 333333833333252800
+Processor 0: sum of squares up to 1000000*1000000 is 333333833333252800
+This took only 0.003113 seconds.
+Processor 2: sum of squares up to 1000000*1000000 is 333333833333252800
+Processor 6: sum of squares up to 1000000*1000000 is 333333833333252800
+Processor 4: sum of squares up to 1000000*1000000 is 333333833333252800
+Processor 5: sum of squares up to 1000000*1000000 is 333333833333252800
+Processor 7: sum of squares up to 1000000*1000000 is 333333833333252800
+Processor 3: sum of squares up to 1000000*1000000 is 333333833333252800
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 9059: <./product 8 900000> Done
+
+Job <./product 8 900000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:13 2014
+Results reported at Sun Feb 23 19:46:15 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 900000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.15 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 6: sum of squares up to 900000*900000 is 243000405000000096
+Processor 2: sum of squares up to 900000*900000 is 243000405000000096
+Processor 4: sum of squares up to 900000*900000 is 243000405000000096
+Processor 7: sum of squares up to 900000*900000 is 243000405000000096
+Processor 3: sum of squares up to 900000*900000 is 243000405000000096
+Processor 5: sum of squares up to 900000*900000 is 243000405000000096
+Processor 0: sum of squares up to 900000*900000 is 243000405000000096
+This took only 0.022243 seconds.
+Processor 1: sum of squares up to 900000*900000 is 243000405000000096
+Sender: LSF System <hpcadmin@node01>
+Subject: Job 9060: <./product 8 950000> Done
+
+Job <./product 8 950000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node01>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:13 2014
+Results reported at Sun Feb 23 19:46:15 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 950000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.16 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 7: sum of squares up to 950000*950000 is 285792117916650080
+Processor 4: sum of squares up to 950000*950000 is 285792117916650080
+Processor 5: sum of squares up to 950000*950000 is 285792117916650080
+Processor 0: sum of squares up to 950000*950000 is 285792117916650080
+This took only 0.026353 seconds.
+Processor 3: sum of squares up to 950000*950000 is 285792117916650080
+Processor 6: sum of squares up to 950000*950000 is 285792117916650080
+Processor 1: sum of squares up to 950000*950000 is 285792117916650080
+Processor 2: sum of squares up to 950000*950000 is 285792117916650080
+Sender: LSF System <hpcadmin@node13>
+Subject: Job 9057: <./product 8 800000> Done
+
+Job <./product 8 800000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node13>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:10 2014
+Results reported at Sun Feb 23 19:46:16 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 800000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.06 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 4: sum of squares up to 800000*800000 is 170666986666700096
+Processor 7: sum of squares up to 800000*800000 is 170666986666700096
+Processor 0: sum of squares up to 800000*800000 is 170666986666700096
+This took only 0.002074 seconds.
+Processor 1: sum of squares up to 800000*800000 is 170666986666700096
+Processor 6: sum of squares up to 800000*800000 is 170666986666700096
+Processor 3: sum of squares up to 800000*800000 is 170666986666700096
+Processor 2: sum of squares up to 800000*800000 is 170666986666700096
+Processor 5: sum of squares up to 800000*800000 is 170666986666700096
+Sender: LSF System <hpcadmin@node13>
+Subject: Job 9058: <./product 8 850000> Done
+
+Job <./product 8 850000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node13>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:13 2014
+Results reported at Sun Feb 23 19:46:16 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 850000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.07 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 3: sum of squares up to 850000*850000 is 204708694583350080
+Processor 7: sum of squares up to 850000*850000 is 204708694583350080
+Processor 5: sum of squares up to 850000*850000 is 204708694583350080
+Processor 2: sum of squares up to 850000*850000 is 204708694583350080
+Processor 6: sum of squares up to 850000*850000 is 204708694583350080
+Processor 1: sum of squares up to 850000*850000 is 204708694583350080
+Processor 0: sum of squares up to 850000*850000 is 204708694583350080
+This took only 0.002349 seconds.
+Processor 4: sum of squares up to 850000*850000 is 204708694583350080
+Sender: LSF System <hpcadmin@node06>
+Subject: Job 9045: <./product 8 200000> Done
+
+Job <./product 8 200000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node06>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:07 2014
+Results reported at Sun Feb 23 19:46:17 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 200000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.03 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 7: sum of squares up to 200000*200000 is 2666686666700000
+Processor 5: sum of squares up to 200000*200000 is 2666686666700000
+Processor 4: sum of squares up to 200000*200000 is 2666686666700000
+Processor 3: sum of squares up to 200000*200000 is 2666686666700000
+Processor 0: sum of squares up to 200000*200000 is 2666686666700000
+This took only 0.000792 seconds.
+Processor 6: sum of squares up to 200000*200000 is 2666686666700000
+Processor 2: sum of squares up to 200000*200000 is 2666686666700000
+Processor 1: sum of squares up to 200000*200000 is 2666686666700000
+Sender: LSF System <hpcadmin@node06>
+Subject: Job 9052: <./product 8 550000> Done
+
+Job <./product 8 550000> was submitted from host <head1> by user <kmd14> in cluster <head1_cluster1>.
+Job was executed on host(s) <8*node06>, in queue <medium_priority>, as user <kmd14> in cluster <head1_cluster1>.
+</gpfs1/kmd14> was used as the home directory.
+</gpfs1/kmd14/297M/Assignments/Assignment 1/BSP> was used as the working directory.
+Started at Sun Feb 23 19:46:10 2014
+Results reported at Sun Feb 23 19:46:17 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./product 8 550000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.05 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+Processor 2: sum of squares up to 550000*550000 is 55458484583425000
+Processor 5: sum of squares up to 550000*550000 is 55458484583425000
+Processor 1: sum of squares up to 550000*550000 is 55458484583425000
+Processor 4: sum of squares up to 550000*550000 is 55458484583425000
+Processor 0: sum of squares up to 550000*550000 is 55458484583425000
+This took only 0.001844 seconds.
+Processor 6: sum of squares up to 550000*550000 is 55458484583425000
+Processor 7: sum of squares up to 550000*550000 is 55458484583425000
+Processor 3: sum of squares up to 550000*550000 is 55458484583425000

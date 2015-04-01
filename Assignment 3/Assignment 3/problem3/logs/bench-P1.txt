@@ -1,0 +1,5 @@
+M: 1000	 Processors: 1, time taken: 10.57786202
+M: 2000	 Processors: 1, time taken: 104.11131310
+M: 3000	 Processors: 1, time taken: 328.70919609
+M: 4000	 Processors: 1, time taken: 981.61146212
+M: 5000	 Processors: 1, time taken: 1509.41968703

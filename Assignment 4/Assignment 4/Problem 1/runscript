@@ -1,0 +1,10 @@
+#!/bin/bash
+for STEPS in 100000 200000 500000 1000000
+do
+	for THREADS in 1 2 4 8 12
+	do
+		make run-reduction STEPS=${STEPS} THREADS=${THREADS}
+		make run-array STEPS=${STEPS} THREADS=${THREADS}
+		make run-critical STEPS=${STEPS} THREADS=${THREADS}
+	done
+done
